@@ -1,23 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Abraham, Binny, Kara Sako, Elina Kinny, Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. Dallas: SIL International.",
+    "dc:bibliographicCitation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at M\u0101noa; 723pp.).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/Abraham-2018-307"
-    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Sociolinguistic Research on Monpa",
+    "dc:title": "Languages of Borneo",
     "dcat:accessURL": "https://github.com/phylostar/borneo",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/phylostar/borneo",
-            "dc:created": "60b5f07"
+            "dc:created": "19ec41d"
         },
         {
             "rdf:type": "prov:Entity",

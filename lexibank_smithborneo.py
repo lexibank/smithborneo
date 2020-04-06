@@ -2,7 +2,7 @@ from collections import defaultdict
 
 from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset 
-from pylexibank import progressbar
+from pylexibank import progressbar, FormSpec
 
 from clldutils.misc import slug
 import attr
@@ -12,6 +12,10 @@ import attr
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "smithborneo"
+    form_spec = FormSpec(
+        first_form_only=True,
+        missing_data=("NA", "---", "-")
+    )
 
     def cmd_makecldf(self, args):
         """
@@ -35,23 +39,22 @@ class Dataset(BaseDataset):
 
         for row in progressbar(self.raw_dir.read_csv('Borneo_87_229.txt', delimiter='\t',
                 dicts=True)):
-            if row['ipa'].strip() and row['ipa'] != "NA":
-                if current_concept != row['concept']:
-                    maxcogid += max(cogids)
-                    current_concept = row['concept']
-                if row['cogid']:
-                    cogid = maxcogid+int(row['cogid'])
-                else:
-                    cogid = 0
+            if current_concept != row['concept']:
+                maxcogid += max(cogids)
+                current_concept = row['concept']
+            if row['cogid']:
+                cogid = maxcogid+int(row['cogid'])
+            else:
+                cogid = 0
 
-                lexeme = args.writer.add_form(
+            for lexeme in args.writer.add_forms_from_value(
                         Language_ID=languages[row['doculect']],
                         Parameter_ID=concepts[row['concept']],
                         Value=row['ipa'],
                         Form=row['ipa'],
                         Source=["SmithNoDate"],
                         Cognacy=cogid
-                        )
+                        ):
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,

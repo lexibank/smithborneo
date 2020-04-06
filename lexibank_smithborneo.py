@@ -51,7 +51,6 @@ class Dataset(BaseDataset):
                         Language_ID=languages[row['doculect']],
                         Parameter_ID=concepts[row['concept']],
                         Value=row['ipa'],
-                        Form=row['ipa'],
                         Source=["SmithNoDate"],
                         Cognacy=cogid
                         ):

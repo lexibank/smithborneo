@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/phylostar/borneo",
-            "dc:created": "19ec41d"
+            "dc:created": "e3f0234"
         },
         {
             "rdf:type": "prov:Entity",
@@ -26,7 +26,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-29-g207180e"
+            "dc:created": "v2.3.0-39-g43f0f34"
         },
         {
             "rdf:type": "prov:Entity",
@@ -114,6 +114,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

@@ -51,13 +51,13 @@ class Dataset(BaseDataset):
                         Language_ID=languages[row['doculect']],
                         Parameter_ID=concepts[row['concept']],
                         Value=row['ipa'],
-                        Source=["SmithNoDate"],
+                        Source=["smithborneo2017"],
                         Cognacy=cogid
                         ):
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,
-                        Source=["SmithNoDate"]
+                        Source=["smithborneo2017"]
                         )
                 cogids += [cogid]
             

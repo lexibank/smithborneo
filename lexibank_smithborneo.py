@@ -14,6 +14,7 @@ class Dataset(BaseDataset):
     id = "smithborneo"
     form_spec = FormSpec(
         first_form_only=True,
+        replacements=[(" ?", ""), (" 11", "")],
         missing_data=("NA", "---", "-")
     )
 

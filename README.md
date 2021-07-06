@@ -1,8 +1,14 @@
 # Languages of Borneo
 
-Cite the source dataset as
+## How to cite
 
-> Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at Mānoa; 723pp.).
+If you use these data please cite
+- the original source
+  > Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at Mānoa; 723pp.).
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -36,15 +42,22 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Cognacy:** 17,091 cognates in 1,837 cognate sets (686 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 86,344
-- **Segments:** 140 (0 BIPA errors, 0 CTLS sound class errors, 140 CLTS modified)
-- **Inventory size (avg):** 31.72
+- **Tokens:** 86,342
+- **Segments:** 139 (0 BIPA errors, 0 CTLS sound class errors, 138 CLTS modified)
+- **Inventory size (avg):** 31.71
 
 # Contributors
 
-Name               | GitHub user | Role
+Name               | GitHub user | Role 
 ---                | ---         | ---
 Johann-Mattis List | @LinguList  | maintainer
 Taraka Rama | @phylostar | maintainer
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

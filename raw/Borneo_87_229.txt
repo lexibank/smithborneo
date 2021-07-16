@@ -182,7 +182,7 @@ Buket	above	nahai lələn	nahail3l3n	12
 Paser	above	laʔ ombol	la7ombol	13	
 Kelai	above	a tutbao̯	atutbao	14	1
 Sekapan	above	aʑaw libaw	aZawlibaw	15	1
-Hovongan	above	noŋuru	noNuru	16	#NAME?
+Hovongan	above	noŋuru	noNuru	16	
 Keninjal	aflame	botuʔ	botu7	1	2
 Mualang	aflame	tətunu	t3tunu	1	6
 Benyadu	aflame	tətinu	t3tinu	1	6

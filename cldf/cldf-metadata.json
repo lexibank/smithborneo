@@ -1,19 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at M\u0101noa; 723pp.).",
+    "dc:bibliographicCitation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. PhD thesis. University of Hawai'i at M\u0101noa.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Languages of Borneo",
-    "dcat:accessURL": "https://github.com/PhyloStar/borneo",
+    "dcat:accessURL": "https://github.com/PhyloStar/smithborneo",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/PhyloStar/borneo",
+            "rdf:about": "https://github.com/PhyloStar/smithborneo",
             "rdf:type": "prov:Entity",
-            "dc:created": "59a977d",
+            "dc:created": "c0895e8",
             "dc:title": "Repository"
         },
         {

@@ -1,222 +1,222 @@
 NUMBER	ENGLISH
-1	above
-2	aflame
-3	afraid
-4	age
-5	alive
-6	and
-7	answer
-8	ash
-9	ask
-10	aunt
-11	bad
-12	bait
-13	bamboo
-14	banana
-15	banyan
-16	bark
-17	barking deer
-18	bathe
-19	bear
-20	bee
-21	between
-22	big
-23	binturong
-24	bird
-25	bitter
-26	black
-27	blood
-28	blowpipe
-29	boar
-30	bone
-31	brain
-32	branch
-33	breast
-34	breathe
-35	burry
-36	butterfly
-37	buy
-38	calf
-39	canoe
-40	capsize
-41	cheek
-42	chest
-43	chew
-44	chicken
-45	child
-46	chin
-47	choose
-48	cloud
-49	cockroach
-50	coconut
-51	come
-52	coucal
-53	crab
-54	crocodile
-55	dart
-56	day
-57	death
-58	deer
-59	derris root
-60	die
-61	dog
-62	door
-63	downriver
-64	dream
-65	drink
-66	dull
-67	durian
-68	ear
-69	earthworm
-70	eat
-71	edge
-72	egg
-73	egret
-74	eight
-75	elbow
-76	empty
-77	enter
-78	excrement
-79	eye
-80	face
-81	.false
-82	far
-83	fast
-84	fat
-85	fathom
-86	fat (n)
-87	fell
-88	fern
-89	field hut
-90	fill
-91	fin
-92	five
-93	four
-94	house
-95	house post
-96	hungry
-97	I
-98	insect bat
-99	ironwood
-100	island
-101	itchy
-102	knee
-103	knuckle
-104	land
-105	large mortar
-106	large pestle
-107	laugh
-108	leaf
-109	leak
-110	leech
-111	left
-112	leopard
-113	lie down
-114	light weight
-115	lips
-116	liver
-117	loincloth
-118	long
-119	louse
-120	man
-121	measure
-122	monkey
-123	moon
-124	mosquito
-125	moss
-126	mouse deer
-127	mouth
-128	mushroom
-129	name
-130	navel
-131	nest
-132	new
-133	night
-134	nine
-135	ocean
-136	one
-137	otter
-138	paddle
-139	palm
-140	pangolin
-141	person
-142	pinky
-143	pluck
-144	porcupine
-145	pour
-146	pregnant
-147	pull
-148	pus
-149	push
-150	python
-151	raft
-152	rafter
-153	rain
-154	rambutan
-155	rattan
-156	red
-157	red leaf monkey
-158	return home
-159	rice
-160	rice grain
-161	right
-162	river
-163	river mouth
-164	roof
-165	roots
-166	rope
-167	sand
-168	sap
-169	scale
-170	see
-171	send
-172	seven
-173	six
-174	stone
-175	stop
-176	stump
-177	sugar cane
-178	sun hat
-179	sweat
-180	sweet
-181	swim
-182	swollen
-183	tail
-184	take
-185	tall
-186	ten
-187	termite
-188	thick
-189	thigh
-190	thin
-191	thorn
-192	three
-193	to lie
-194	tongue
-195	tooth
-196	tree
-197	true/correct
-198	twins
-199	two
-200	unripe
-201	upriver
-202	vein
-203	vomit
-204	waist
-205	walk
-206	wall
-207	water
-208	weak
-209	weave
-210	western tarsier
-211	wet
-212	white
-213	wing
-214	wipe
-215	woman
-216	worm
-217	yam
-218	year
-219	yesterday
-220	you
-221	younger siblings
+1	above	1741	ABOVE
+2	aflame	1428	BURNING 
+3	afraid	3033	SCARED
+4	age	1789	AGE
+5	alive	1422	BE ALIVE
+6	and	1577	AND
+7	answer	1275	ANSWER
+8	ash	646	ASH
+9	ask	1309	ASK (INQUIRE)
+10	aunt	1272	AUNT
+11	bad	1292	BAD
+12	bait	2013	BAIT
+13	bamboo	1927	BAMBOO
+14	banana	868	BANANA
+15	banyan	346	BANYAN
+16	bark	1204	BARK
+17	barking deer	3152	MUNTJACS
+18	bathe	138	BATHE
+19	bear	1820	BEAR
+20	bee	665	BEE
+21	between	689	BETWEEN
+22	big	1202	BIG
+23	binturong	3157	CIVET
+24	bird	937	BIRD
+25	bitter	887	BITTER
+26	black	163	BLACK
+27	blood	946	BLOOD
+28	blowpipe	432	BLOWGUN
+29	boar	1348	BOAR (MALE PIG)
+30	bone	1394	BONE
+31	brain	1583	BRAIN
+32	branch	1531	BRANCH
+33	breast	1402	BREAST
+34	breathe	1407	BREATHE
+35	burry	1719	BURY
+36	butterfly	1791	BUTTERFLY
+37	buy	1869	BUY
+38	calf	1989	CALF
+39	canoe	1970	CANOE
+40	capsize	1088	SINK (DESCEND)
+41	cheek	1730	CHEEK
+42	chest	1592	CHEST
+43	chew	321	CHEW
+44	chicken	1318	CHICKEN
+45	child	2099	CHILD
+46	chin	1510	CHIN
+47	choose	1750	CHOOSE
+48	cloud	1489	CLOUD
+49	cockroach	1575	COCKROACH
+50	coconut	970	COCONUT
+51	come	1446	COME
+52	coucal	2934	CUCKOO
+53	crab	2348	CRAB
+54	crocodile	1857	CROCODILE
+55	dart	2587	DARTS
+56	day	1225	DAY (NOT NIGHT)
+57	death	910	DEATH
+58	deer	1936	DEER
+59	derris root	348	FISH POISON
+60	die	1494	DIE
+61	dog	2009	DOG
+62	door	1567	DOOR
+63	downriver		
+64	dream	2455	DREAMING OR DREAM
+65	drink	1401	DRINK
+66	dull	379	BLUNT
+67	durian		
+68	ear	1247	EAR
+69	earthworm	2350	EARTHWORM
+70	eat	1336	EAT
+71	edge	863	EDGE
+72	egg	744	EGG
+73	egret	758	HERON
+74	eight	1705	EIGHT
+75	elbow	981	ELBOW
+76	empty	1624	EMPTY
+77	enter	749	ENTER
+78	excrement	675	FAECES (EXCREMENT)
+79	eye	1248	EYE
+80	face	1560	FACE
+81	.false	3069	FALSE
+82	far	1406	FAR
+83	fast	1631	FAST
+84	fat	1279	FAT (OBESE)
+85	fathom	81	FATHOM
+86	fat (n)	323	FAT (ORGANIC SUBSTANCE)
+87	fell	355	CUT DOWN
+88	fern	3802	FERN
+89	field hut	1678	HUT
+90	fill	2006	FILL
+91	fin	213	FIN
+92	five	493	FIVE
+93	four	1500	FOUR
+94	house	1252	HOUSE
+95	house post	281	POST
+96	hungry	1533	BE HUNGRY
+97	I	1209	I
+98	insect bat	1793	BAT
+99	ironwood		
+100	island	622	ISLAND
+101	itchy	149	ITCHY
+102	knee	1371	KNEE
+103	knuckle	2824	KNUCKLE
+104	land	626	LAND
+105	large mortar	224	MORTAR
+106	large pestle	225	PESTLE
+107	laugh	1355	LAUGH
+108	leaf	628	LEAF
+109	leak	2253	DRIP (EMIT LIQUID)
+110	leech	2273	LEECH
+111	left	244	LEFT
+112	leopard	1139	LEOPARD
+113	lie down	215	LIE DOWN
+114	light weight	1052	LIGHT (WEIGHT)
+115	lips	478	LIP
+116	liver	1224	LIVER
+117	loincloth	1965	LOINCLOTH
+118	long	1203	LONG
+119	louse	1392	LOUSE
+120	man	1554	MAN
+121	measure	1506	MEASURE
+122	monkey	1350	MONKEY
+123	moon	1313	MOON
+124	mosquito	1509	MOSQUITO
+125	moss	637	MOSS
+126	mouse deer	1936	DEER
+127	mouth	674	MOUTH
+128	mushroom	641	MUSHROOM
+129	name	1405	NAME
+130	navel	1838	NAVEL
+131	nest	539	NEST
+132	new	1231	NEW
+133	night	1233	NIGHT
+134	nine	1483	NINE
+135	ocean	645	OCEAN
+136	one	1493	ONE
+137	otter	15	OTTER
+138	paddle	234	PADDLE
+139	palm	1181	PALM TREE
+140	pangolin	2508	PANGOLIN
+141	person	683	PERSON
+142	pinky	2774	LITTLE FINGER
+143	pluck	2148	PICK
+144	porcupine	2510	PORCUPINE
+145	pour	1487	POUR
+146	pregnant	1123	PREGNANT
+147	pull	1455	PULL
+148	pus	1808	PUS
+149	push	1452	PUSH
+150	python	1563	PYTHON
+151	raft	1664	RAFT
+152	rafter	829	RAFTER
+153	rain	2108	RAINING OR RAIN
+154	rambutan	3731	LYCHEE
+155	rattan	2497	RATTAN
+156	red	156	RED
+157	red leaf monkey	1350	MONKEY
+158	return home	142	RETURN HOME
+159	rice	926	RICE
+160	rice grain	926	RICE
+161	right	1019	RIGHT
+162	river	666	RIVER
+163	river mouth	1701	RIVER MOUTH
+164	roof	769	ROOF
+165	roots	670	ROOT
+166	rope	1218	ROPE
+167	sand	671	SAND
+168	sap	345	SAP
+169	scale	266	SCALE
+170	see	1409	SEE
+171	send	1127	SEND
+172	seven	1704	SEVEN
+173	six	1703	SIX
+174	stone	857	STONE
+175	stop	2115	CEASE OR FINISH
+176	stump	241	TREE STUMP
+177	sugar cane	146	SUGAR CANE
+178	sun hat	2160	BAMBOO HAT
+179	sweat	125	SWEAT (SUBSTANCE)
+180	sweet	717	SWEET
+181	swim	1439	SWIM
+182	swollen	1573	SWELL
+183	tail	1220	TAIL
+184	take	1749	TAKE
+185	tall	711	TALL
+186	ten	1515	TEN
+187	termite	883	TERMITE
+188	thick	1244	THICK
+189	thigh	471	UPPER LEG (THIGH)
+190	thin	2308	THIN
+191	thorn	124	THORN
+192	three	492	THREE
+193	to lie	601	LIE MISLEAD
+194	tongue	1205	TONGUE
+195	tooth	1380	TOOTH
+196	tree	906	TREE
+197	true/correct	1725	CORRECT (RIGHT)
+198	twins	1005	TWINS
+199	two	1498	TWO
+200	unripe	1958	UNRIPE
+201	upriver		
+202	vein	1924	VEIN
+203	vomit	1278	VOMIT
+204	waist	1681	WAIST
+205	walk	1443	WALK
+206	wall	3830	WALL
+207	water	948	WATER
+208	weak	1601	WEAK
+209	weave	133	WEAVE
+210	western tarsier	3298	APE OR MONKEY
+211	wet	1726	WET
+212	white	1335	WHITE
+213	wing	1257	WING
+214	wipe	1454	WIPE
+215	woman	962	WOMAN
+216	worm	1219	WORM
+217	yam	410	YAM
+218	year	1226	YEAR
+219	yesterday	1174	YESTERDAY
+220	you	1215	THOU
+221	younger siblings	427	YOUNGER SIBLING

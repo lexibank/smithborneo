@@ -4,13 +4,13 @@
 
 If you use these data please cite
 - the original source
-  > Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at Mānoa; 723pp.).
+  > Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. PhD thesis. University of Hawai'i at Mānoa.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 ## Notes
 

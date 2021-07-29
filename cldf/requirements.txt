@@ -11,6 +11,7 @@ greenlet==1.1.0
 idna==3.2
 iniconfig==1.1.1
 isodate==0.6.0
+joblib==1.0.1
 lingpy==2.6.8
 Markdown==3.3.4
 networkx==2.6.1
@@ -40,6 +41,8 @@ soupsieve==2.2.1
 SQLAlchemy==1.4.21
 tabulate==0.8.9
 termcolor==1.1.0
+texttable==1.6.4
+threadpoolctl==2.2.0
 tqdm==4.61.2
 uritemplate==3.0.1
 urllib3==1.26.6

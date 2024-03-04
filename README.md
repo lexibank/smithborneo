@@ -29,7 +29,7 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 
 ![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -43,7 +43,7 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Cognate Diversity:** 0.16
 - **Invalid lexemes:** 0
 - **Tokens:** 86,342
-- **Segments:** 139 (0 BIPA errors, 0 CTLS sound class errors, 138 CLTS modified)
+- **Segments:** 139 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
 - **Inventory size (avg):** 31.71
 
 # Contributors

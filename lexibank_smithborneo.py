@@ -38,16 +38,17 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept['ENGLISH'],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    #Concepticon_ID=concept["CONCEPTICON_ID"],
+                    #Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
             concepts[concept['ENGLISH']] = idx
+
 
         cogids = defaultdict(int)
         current_concept = ''
         maxcogid = 0
-
-        for row in progressbar(self.raw_dir.read_csv('Borneo_87_229.txt', delimiter='\t',
+        errors = set()
+        for row in progressbar(self.raw_dir.read_csv('cognates_95_229.csv', delimiter='\t',
                 dicts=True)):
             if current_concept != row['concept']:
                 print("MAXCOGID", current_concept, row['concept'], maxcogid)
@@ -67,19 +68,27 @@ class Dataset(BaseDataset):
                 maxcogid += 1
                 cogids[cluster_id] = maxcogid
                 cogid = cogids[cluster_id]
-
-            for lexeme in args.writer.add_forms_from_value(
-                        Language_ID=languages[row['doculect']],
-                        Parameter_ID=concepts[row['concept']],
-                        Value=row['ipa'],
-                        Source=["smithborneo2017"],
-                        Cognacy=cogid
-                        ):
-                args.writer.add_cognate(
-                        lexeme=lexeme,
-                        Cognateset_ID=cogid,
-                        Source=["smithborneo2017"]
-                        )
+            
+            if row["doculect"] in languages and row["concept"] in concepts:
+                for lexeme in args.writer.add_forms_from_value(
+                            Language_ID=languages[row['doculect']],
+                            Parameter_ID=concepts[row['concept']],
+                            Value=row['ipa'],
+                            Source=["Smith2022"],
+                            Cognacy=cogid
+                            ):
+                    args.writer.add_cognate(
+                            lexeme=lexeme,
+                            Cognateset_ID=cogid,
+                            Source=["Smith2022"]
+                            )
+            else:
+                if row["doculect"] not in languages:
+                    errors.add("language "+row["doculect"])
+                if row["concept"] not in concepts:
+                    errors.add("concept " + row["concept"])
+        for error in sorted(errors):
+            print(error)
                 
             
 

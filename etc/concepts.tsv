@@ -1,222 +1,682 @@
-NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	above	1741	ABOVE
-2	aflame	1428	BURNING 
-3	afraid	3033	SCARED
-4	age	1789	AGE
-5	alive	1422	BE ALIVE
-6	and	1577	AND
-7	answer	1275	ANSWER
-8	ash	646	ASH
-9	ask	1309	ASK (INQUIRE)
-10	aunt	1272	AUNT
-11	bad	1292	BAD
-12	bait	2013	BAIT
-13	bamboo	1927	BAMBOO
-14	banana	868	BANANA
-15	banyan	346	BANYAN
-16	bark	1204	BARK
-17	barking deer	3152	MUNTJACS
-18	bathe	138	BATHE
-19	bear	1820	BEAR
-20	bee	665	BEE
-21	between	689	BETWEEN
-22	big	1202	BIG
-23	binturong	3157	CIVET
-24	bird	937	BIRD
-25	bitter	887	BITTER
-26	black	163	BLACK
-27	blood	946	BLOOD
-28	blowpipe	432	BLOWGUN
-29	boar	1348	BOAR (MALE PIG)
-30	bone	1394	BONE
-31	brain	1583	BRAIN
-32	branch	1531	BRANCH
-33	breast	1402	BREAST
-34	breathe	1407	BREATHE
-35	burry	1719	BURY
-36	butterfly	1791	BUTTERFLY
-37	buy	1869	BUY
-38	calf	1989	CALF
-39	canoe	1970	CANOE
-40	capsize	1088	SINK (DESCEND)
-41	cheek	1730	CHEEK
-42	chest	1592	CHEST
-43	chew	321	CHEW
-44	chicken	1318	CHICKEN
-45	child	2099	CHILD
-46	chin	1510	CHIN
-47	choose	1750	CHOOSE
-48	cloud	1489	CLOUD
-49	cockroach	1575	COCKROACH
-50	coconut	970	COCONUT
-51	come	1446	COME
-52	coucal	2934	CUCKOO
-53	crab	2348	CRAB
-54	crocodile	1857	CROCODILE
-55	dart	2587	DARTS
-56	day	1225	DAY (NOT NIGHT)
-57	death	910	DEATH
-58	deer	1936	DEER
-59	derris root	348	FISH POISON
-60	die	1494	DIE
-61	dog	2009	DOG
-62	door	1567	DOOR
-63	downriver		
-64	dream	2455	DREAMING OR DREAM
-65	drink	1401	DRINK
-66	dull	379	BLUNT
-67	durian		
-68	ear	1247	EAR
-69	earthworm	2350	EARTHWORM
-70	eat	1336	EAT
-71	edge	863	EDGE
-72	egg	744	EGG
-73	egret	758	HERON
-74	eight	1705	EIGHT
-75	elbow	981	ELBOW
-76	empty	1624	EMPTY
-77	enter	749	ENTER
-78	excrement	675	FAECES (EXCREMENT)
-79	eye	1248	EYE
-80	face	1560	FACE
-81	.false	3069	FALSE
-82	far	1406	FAR
-83	fast	1631	FAST
-84	fat	1279	FAT (OBESE)
-85	fathom	81	FATHOM
-86	fat (n)	323	FAT (ORGANIC SUBSTANCE)
-87	fell	355	CUT DOWN
-88	fern	3802	FERN
-89	field hut	1678	HUT
-90	fill	2006	FILL
-91	fin	213	FIN
-92	five	493	FIVE
-93	four	1500	FOUR
-94	house	1252	HOUSE
-95	house post	281	POST
-96	hungry	1533	BE HUNGRY
-97	I	1209	I
-98	insect bat	1793	BAT
-99	ironwood		
-100	island	622	ISLAND
-101	itchy	149	ITCHY
-102	knee	1371	KNEE
-103	knuckle	2824	KNUCKLE
-104	land	626	LAND
-105	large mortar	224	MORTAR
-106	large pestle	225	PESTLE
-107	laugh	1355	LAUGH
-108	leaf	628	LEAF
-109	leak	2253	DRIP (EMIT LIQUID)
-110	leech	2273	LEECH
-111	left	244	LEFT
-112	leopard	1139	LEOPARD
-113	lie down	215	LIE DOWN
-114	light weight	1052	LIGHT (WEIGHT)
-115	lips	478	LIP
-116	liver	1224	LIVER
-117	loincloth	1965	LOINCLOTH
-118	long	1203	LONG
-119	louse	1392	LOUSE
-120	man	1554	MAN
-121	measure	1506	MEASURE
-122	monkey	1350	MONKEY
-123	moon	1313	MOON
-124	mosquito	1509	MOSQUITO
-125	moss	637	MOSS
-126	mouse deer	1936	DEER
-127	mouth	674	MOUTH
-128	mushroom	641	MUSHROOM
-129	name	1405	NAME
-130	navel	1838	NAVEL
-131	nest	539	NEST
-132	new	1231	NEW
-133	night	1233	NIGHT
-134	nine	1483	NINE
-135	ocean	645	OCEAN
-136	one	1493	ONE
-137	otter	15	OTTER
-138	paddle	234	PADDLE
-139	palm	1181	PALM TREE
-140	pangolin	2508	PANGOLIN
-141	person	683	PERSON
-142	pinky	2774	LITTLE FINGER
-143	pluck	2148	PICK
-144	porcupine	2510	PORCUPINE
-145	pour	1487	POUR
-146	pregnant	1123	PREGNANT
-147	pull	1455	PULL
-148	pus	1808	PUS
-149	push	1452	PUSH
-150	python	1563	PYTHON
-151	raft	1664	RAFT
-152	rafter	829	RAFTER
-153	rain	2108	RAINING OR RAIN
-154	rambutan	3731	LYCHEE
-155	rattan	2497	RATTAN
-156	red	156	RED
-157	red leaf monkey	1350	MONKEY
-158	return home	142	RETURN HOME
-159	rice	926	RICE
-160	rice grain	926	RICE
-161	right	1019	RIGHT
-162	river	666	RIVER
-163	river mouth	1701	RIVER MOUTH
-164	roof	769	ROOF
-165	roots	670	ROOT
-166	rope	1218	ROPE
-167	sand	671	SAND
-168	sap	345	SAP
-169	scale	266	SCALE
-170	see	1409	SEE
-171	send	1127	SEND
-172	seven	1704	SEVEN
-173	six	1703	SIX
-174	stone	857	STONE
-175	stop	2115	CEASE OR FINISH
-176	stump	241	TREE STUMP
-177	sugar cane	146	SUGAR CANE
-178	sun hat	2160	BAMBOO HAT
-179	sweat	125	SWEAT (SUBSTANCE)
-180	sweet	717	SWEET
-181	swim	1439	SWIM
-182	swollen	1573	SWELL
-183	tail	1220	TAIL
-184	take	1749	TAKE
-185	tall	711	TALL
-186	ten	1515	TEN
-187	termite	883	TERMITE
-188	thick	1244	THICK
-189	thigh	471	UPPER LEG (THIGH)
-190	thin	2308	THIN
-191	thorn	124	THORN
-192	three	492	THREE
-193	to lie	601	LIE MISLEAD
-194	tongue	1205	TONGUE
-195	tooth	1380	TOOTH
-196	tree	906	TREE
-197	true/correct	1725	CORRECT (RIGHT)
-198	twins	1005	TWINS
-199	two	1498	TWO
-200	unripe	1958	UNRIPE
-201	upriver		
-202	vein	1924	VEIN
-203	vomit	1278	VOMIT
-204	waist	1681	WAIST
-205	walk	1443	WALK
-206	wall	3830	WALL
-207	water	948	WATER
-208	weak	1601	WEAK
-209	weave	133	WEAVE
-210	western tarsier	3298	APE OR MONKEY
-211	wet	1726	WET
-212	white	1335	WHITE
-213	wing	1257	WING
-214	wipe	1454	WIPE
-215	woman	962	WOMAN
-216	worm	1219	WORM
-217	yam	410	YAM
-218	year	1226	YEAR
-219	yesterday	1174	YESTERDAY
-220	you	1215	THOU
-221	younger siblings	427	YOUNGER SIBLING
+NUMBER	ENGLISH
+1	above
+2	adam's apple
+3	aflame
+4	afraid
+5	after
+6	age
+7	agree
+8	alive
+9	all
+10	alone
+11	already
+12	always
+13	ancestors
+14	and
+15	angry
+16	animal
+17	ankle
+18	annoyed
+19	answer
+20	ant
+21	ape, orangutan
+22	armpit
+23	arrive
+24	ash
+25	ask
+26	aunt
+27	baby
+28	baby carrier
+29	back
+30	bad
+31	bait
+32	bamboo
+33	banana
+34	banyan
+35	bark
+36	barking deer
+37	bathe
+38	bear
+39	because
+40	become
+41	bee
+42	before
+43	begin
+44	behind
+45	bent
+46	betel chew
+47	betel nut
+48	between
+49	big
+50	binturong
+51	bird
+52	bite
+53	bitter
+54	black
+55	blader
+56	blind
+57	blink
+58	blood
+59	blow, as wind
+60	blow nose
+61	blowpipe
+62	blow, with mouth
+63	boar
+64	body
+65	body hair
+66	bone
+67	bored
+68	bowl
+69	brain
+70	branch
+71	brave
+72	breast
+73	breast feed
+74	breathe
+75	bridge
+76	broom
+77	burn
+78	burp
+79	burry
+80	but
+81	butterfly
+82	buy
+83	calf
+84	call
+85	can; able
+86	canine
+87	canoe
+88	capsize
+89	carry as a backpack
+90	carry as a handle
+91	carry on the shoulder
+92	carry under one arm
+93	cat
+94	cataract
+95	catch as a ball
+96	centepede
+97	chair
+98	cheek
+99	chest
+100	chew
+101	chicken
+102	child
+103	chin
+104	choke
+105	choose
+106	chop as meat
+107	cicada
+108	clean
+109	climb
+110	cloud
+111	cockroach
+112	coconut
+113	coffin
+114	cold
+115	collapse
+116	come
+117	concept
+118	cook
+119	cooked rice
+120	corpse
+121	coucal
+122	cough
+123	count
+124	cousin
+125	crab
+126	crack
+127	crocodile
+128	cry
+129	dance
+130	dark
+131	dart
+132	daughter in law
+133	day
+134	deaf
+135	death
+136	deep
+137	deer
+138	derris root
+139	diarrhea
+140	die
+141	different
+142	difficult
+143	dig
+144	dirty
+145	divide, pull or push apart
+146	divorce/separate
+147	dizzy
+148	dog
+149	dom. Pig
+150	door
+151	downriver
+152	dragon
+153	dragonfly
+154	dream
+155	drink
+156	drop
+157	drown
+158	drum
+159	drunk
+160	dry
+161	dull
+162	durian
+163	dust
+164	eagle
+165	ear
+166	earthworm
+167	easy
+168	eat
+169	edge
+170	egg
+171	egret
+172	eight
+173	elbow
+174	empty
+175	enemy
+176	enough
+177	enter
+178	evening
+179	every
+180	every day
+181	excrement
+182	eye
+183	eye brow
+184	eyelash
+185	face
+186	fall
+187	.false
+188	far
+189	fast
+190	fat
+191	father
+192	father in law
+193	fathom
+194	fat (n)
+195	feeling
+196	fell
+197	fern
+198	fever
+199	few
+200	field hut
+201	fight
+202	fill
+203	fin
+204	find
+205	finger
+206	finger nail
+207	finish
+208	fire 
+209	fireplace
+210	firewood
+211	firewood storage
+212	fish
+213	five
+214	flat
+215	flesh
+216	float
+217	flood
+218	floor
+219	flower
+220	fly
+221	flying lemur
+222	fontanelle
+223	food
+224	forehead
+225	forget
+226	four
+227	friend
+228	frighten
+229	frog
+230	from
+231	fruit
+232	fruit bat
+233	fry
+234	full
+235	full, of food
+236	gall
+237	gecko
+238	ghost
+239	gibbon
+240	gills
+241	give
+242	give birth
+243	go
+244	goiter
+245	good
+246	grainary
+247	grandchild
+248	grandfather
+249	grandmother
+250	grass
+251	grasshopper
+252	grave
+253	great argus pheasant
+254	grow, as a plant
+255	gums
+256	hair whirl
+257	half
+258	hammer
+259	hand/arm
+260	handspan
+261	hang
+262	happy
+263	hard
+264	harvest
+265	hat
+266	have
+267	head
+268	head hair
+269	headhunting
+270	heart
+271	heavy
+272	heel
+273	helmeted hornbill
+274	help
+275	here
+276	heron
+277	he/she
+278	hiccup
+279	hide oneself
+280	hoarse
+281	hold
+282	hole
+283	hook
+284	horn
+285	hot
+286	house
+287	house post
+288	how
+289	how many
+290	hundred
+291	hungry
+292	hunt with a dog
+293	husband
+294	husk
+295	i
+296	I
+297	if
+298	index finger
+299	in front
+300	insect bat
+301	inside
+302	insult
+303	intestinal worms
+304	intestines
+305	ironwood
+306	island
+307	itchy
+308	jealous
+309	jump
+310	kick
+311	kill
+312	kiss
+313	knee
+314	knife
+315	knuckle
+316	lake
+317	land
+318	large fly
+319	large mortar
+320	large pestle
+321	laugh
+322	lazy
+323	leaf
+324	leak
+325	learn
+326	leave
+327	leech
+328	left
+329	leg
+330	lend
+331	leopard
+332	lid
+333	lie down
+334	lift, carry
+335	light/bright
+336	lightening
+337	light weight
+338	like
+339	lime
+340	lips
+341	listen, hear
+342	liver
+343	lizard
+344	loincloth
+345	long
+346	loose
+347	lost
+348	loud
+349	louse
+350	lowland plain
+351	make
+352	man
+353	mantis
+354	many
+355	married
+356	mat
+357	measure
+358	meet
+359	millipede
+360	mist
+361	mix
+362	molars
+363	monitor
+364	monkey
+365	moon
+366	morning
+367	mosquito
+368	moss
+369	mother
+370	mother in law
+371	mountain
+372	mouse deer
+373	mouth
+374	mud
+375	mushroom
+376	mute
+377	naked
+378	name
+379	nape
+380	narrow
+381	navel
+382	near
+383	neck
+384	nest
+385	new
+386	next to
+387	niece; nephew
+388	night
+389	nine
+390	nipple
+391	noon
+392	nose
+393	now
+394	ocean
+395	old
+396	older siblings
+397	one
+398	only
+399	on top
+400	open
+401	or
+402	otter
+403	overflow
+404	Owl
+405	paddle
+406	painful
+407	palate
+408	palm
+409	pangolin
+410	parang
+411	peak/top
+412	peel fruit
+413	person
+414	pinch
+415	pinky
+416	pit viper
+417	place, noun
+418	plant
+419	plate
+420	plateau
+421	pluck
+422	point
+423	pond
+424	porcupine
+425	pound rice
+426	pour
+427	pregnant
+428	primary jungle
+429	print
+430	pull
+431	punch
+432	punnish
+433	pus
+434	push
+435	put down
+436	python
+437	quiet
+438	raft
+439	rafter
+440	rain
+441	rainbow
+442	rambutan
+443	rapids
+444	rat
+445	rattan
+446	raw
+447	receive
+448	red
+449	red leaf monkey
+450	remember
+451	rest
+452	return
+453	return home
+454	rhinoceros beetle
+455	rhinoceros hornbill
+456	rice
+457	rice grain
+458	rice wine
+459	right
+460	ripe
+461	river
+462	river mouth
+463	road
+464	roast
+465	roll
+466	roof
+467	room
+468	roots
+469	rope
+470	rotten as meat
+471	rub
+472	run
+473	sad
+474	sago
+475	saliva
+476	salty
+477	same; similar
+478	sand
+479	sand fly
+480	sap
+481	sape
+482	say
+483	scabbard
+484	scale
+485	scar
+486	scold
+487	scorpion
+488	scratch
+489	secondary jungle
+490	see
+491	seed
+492	sell
+493	send
+494	seven
+495	sew
+496	shade
+497	shadow
+498	shallow
+499	sharp
+500	sharpen
+501	shield
+502	shin
+503	shoot a blowpipe
+504	short
+505	shoulder
+506	shout
+507	shrimp
+508	shy
+509	sick
+510	sit
+511	six
+512	skin
+513	skin an animal
+514	skink
+515	skinny
+516	skirt
+517	sky
+518	slap
+519	sleep
+520	sleep talk
+521	slice
+522	slip
+523	slow
+524	slow loris
+525	small
+526	smell, noun
+527	smile
+528	smoke (noun)
+529	snail
+530	snake
+531	snap
+532	sneeze
+533	snore
+534	snot
+535	soft
+536	song/sing
+537	son in law
+538	sour
+539	speak
+540	spicy
+541	spider
+542	spider hunter
+543	spit
+544	splash
+545	split
+546	squeeze
+547	squirrel
+548	stab
+549	stairs
+550	stand
+551	star
+552	stay; lodge
+553	steal
+554	sticky
+555	stomach
+556	stone
+557	stop
+558	story
+559	straight
+560	strong
+561	stump
+562	sugar cane
+563	sun hat
+564	sunrise
+565	sunset
+566	supernatural storm
+567	surprised
+568	swallow
+569	sweat
+570	sweep
+571	sweet
+572	sweet potato
+573	swim
+574	swollen
+575	tail
+576	take
+577	tall
+578	tasteless
+579	tattoo
+580	tear
+581	tell
+582	ten
+583	termite
+584	that, near
+585	there, far
+586	there, near
+587	they 
+588	thick
+589	thigh
+590	thin
+591	think
+592	thirsty
+593	this
+594	thorn
+595	thousand
+596	three
+597	throw
+598	thumb
+599	thunder
+600	tie
+601	tired
+602	toad
+603	to clean
+604	today
+605	to dry
+606	to lean
+607	to lie
+608	tomorrow
+609	tongue
+610	tooth
+611	to sting
+612	touch
+613	tourtise
+614	to whistle
+615	to wrap
+616	tree
+617	true/correct
+618	try
+619	turn
+620	turtle
+621	twenty
+622	twins
+623	two
+624	uncle
+625	under
+626	understand
+627	unripe
+628	unripe and dry
+629	upriver
+630	urinate
+631	urine
+632	valley
+633	vein
+634	village
+635	voice
+636	vomit
+637	waist
+638	wait
+639	wake up
+640	walk
+641	wall
+642	want
+643	wash clothes
+644	water
+645	waterfall
+646	weak
+647	weave
+648	we pl exc
+649	we pl incl
+650	western tarsier
+651	wet
+652	what
+653	when
+654	where
+655	which
+656	whirlpool
+657	white
+658	who
+659	why
+660	wide
+661	widow
+662	widower
+663	wife
+664	wind
+665	wing
+666	wipe
+667	with
+668	woman
+669	wood pecker
+670	worm
+671	wring
+672	yam
+673	yawn
+674	year
+675	yellow brown monkey
+676	yellow ringed cat snake
+677	yesterday
+678	you
+679	young
+680	younger siblings
+681	you plural

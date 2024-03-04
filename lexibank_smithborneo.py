@@ -18,6 +18,13 @@ class Dataset(BaseDataset):
         missing_data=("NA", "---", "-")
     )
 
+    def cmd_download(self, args):
+        self.raw_dir.download_and_unpack(
+                "https://figshare.com/ndownloader/files/25646477",
+                "Supplementary Material 1/cognates_95_229.csv",
+                "Supplementary Material 1/Bornean_87_229.nex"
+                )
+
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
@@ -31,6 +38,8 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept['ENGLISH'],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
             concepts[concept['ENGLISH']] = idx
 

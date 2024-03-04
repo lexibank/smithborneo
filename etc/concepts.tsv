@@ -1,222 +1,681 @@
-NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	above	1741	ABOVE
-2	aflame	1428	BURNING
-3	afraid	3033	SCARED
-4	age	1789	AGE
-5	alive	1422	BE ALIVE
-6	and	1577	AND
-7	answer	1275	ANSWER
-8	ash	646	ASH
-9	ask	1309	ASK (INQUIRE)
-10	aunt	1272	AUNT
-11	bad	1292	BAD
-12	bait	2013	BAIT
-13	bamboo	1927	BAMBOO
-14	banana	868	BANANA
-15	banyan	346	BANYAN
-16	bark	1204	BARK
-17	barking deer	3152	MUNTJACS
-18	bathe	138	BATHE
-19	bear	1820	BEAR
-20	bee	665	BEE
-21	between	689	BETWEEN
-22	big	1202	BIG
-23	binturong	3157	CIVET
-24	bird	937	BIRD
-25	bitter	887	BITTER
-26	black	163	BLACK
-27	blood	946	BLOOD
-28	blowpipe	432	BLOWGUN
-29	boar	1348	BOAR (MALE PIG)
-30	bone	1394	BONE
-31	brain	1583	BRAIN
-32	branch	1531	BRANCH
-33	breast	1402	BREAST
-34	breathe	1407	BREATHE
-35	burry	1719	BURY
-36	butterfly	1791	BUTTERFLY
-37	buy	1869	BUY
-38	calf	1989	CALF
-39	canoe	1970	CANOE
-40	capsize	1088	SINK (DESCEND)
-41	cheek	1730	CHEEK
-42	chest	1592	CHEST
-43	chew	321	CHEW
-44	chicken	1318	CHICKEN
-45	child	2099	CHILD
-46	chin	1510	CHIN
-47	choose	1750	CHOOSE
-48	cloud	1489	CLOUD
-49	cockroach	1575	COCKROACH
-50	coconut	970	COCONUT
-51	come	1446	COME
-52	coucal	2934	CUCKOO
-53	crab	2348	CRAB
-54	crocodile	1857	CROCODILE
-55	dart	2587	DARTS
-56	day	1225	DAY (NOT NIGHT)
-57	death	910	DEATH
-58	deer	1936	DEER
-59	derris root	348	FISH POISON
-60	die	1494	DIE
-61	dog	2009	DOG
-62	door	1567	DOOR
-63	downriver		
-64	dream	2455	DREAMING OR DREAM
-65	drink	1401	DRINK
-66	dull	379	BLUNT
-67	durian		
-68	ear	1247	EAR
-69	earthworm	2350	EARTHWORM
-70	eat	1336	EAT
-71	edge	863	EDGE
-72	egg	744	EGG
-73	egret	758	HERON
-74	eight	1705	EIGHT
-75	elbow	981	ELBOW
-76	empty	1624	EMPTY
-77	enter	749	ENTER
-78	excrement	675	FAECES (EXCREMENT)
-79	eye	1248	EYE
-80	face	1560	FACE
-81	.false	3069	FALSE
-82	far	1406	FAR
-83	fast	1631	FAST
-84	fat	1279	FAT (OBESE)
-85	fathom	81	FATHOM
-86	fat (n)	323	FAT (ORGANIC SUBSTANCE)
-87	fell	355	CUT DOWN
-88	fern	3802	FERN
-89	field hut	1678	HUT
-90	fill	2006	FILL
-91	fin	213	FIN
-92	five	493	FIVE
-93	four	1500	FOUR
-94	house	1252	HOUSE
-95	house post	281	POST
-96	hungry	1533	BE HUNGRY
-97	I	1209	I
-98	insect bat	1793	BAT
-99	ironwood		
-100	island	622	ISLAND
-101	itchy	149	ITCHY
-102	knee	1371	KNEE
-103	knuckle	2824	KNUCKLE
-104	land	626	LAND
-105	large mortar	224	MORTAR
-106	large pestle	225	PESTLE
-107	laugh	1355	LAUGH
-108	leaf	628	LEAF
-109	leak	2253	DRIP (EMIT LIQUID)
-110	leech	2273	LEECH
-111	left	244	LEFT
-112	leopard	1139	LEOPARD
-113	lie down	215	LIE DOWN
-114	light weight	1052	LIGHT (WEIGHT)
-115	lips	478	LIP
-116	liver	1224	LIVER
-117	loincloth	1965	LOINCLOTH
-118	long	1203	LONG
-119	louse	1392	LOUSE
-120	man	1554	MAN
-121	measure	1506	MEASURE
-122	monkey	1350	MONKEY
-123	moon	1313	MOON
-124	mosquito	1509	MOSQUITO
-125	moss	637	MOSS
-126	mouse deer	1936	DEER
-127	mouth	674	MOUTH
-128	mushroom	641	MUSHROOM
-129	name	1405	NAME
-130	navel	1838	NAVEL
-131	nest	539	NEST
-132	new	1231	NEW
-133	night	1233	NIGHT
-134	nine	1483	NINE
-135	ocean	645	OCEAN
-136	one	1493	ONE
-137	otter	15	OTTER
-138	paddle	234	PADDLE
-139	palm	1181	PALM TREE
-140	pangolin	2508	PANGOLIN
-141	person	683	PERSON
-142	pinky	2774	LITTLE FINGER
-143	pluck	2148	PICK
-144	porcupine	2510	PORCUPINE
-145	pour	1487	POUR
-146	pregnant	1123	PREGNANT
-147	pull	1455	PULL
-148	pus	1808	PUS
-149	push	1452	PUSH
-150	python	1563	PYTHON
-151	raft	1664	RAFT
-152	rafter	829	RAFTER
-153	rain	2108	RAINING OR RAIN
-154	rambutan	3731	LYCHEE
-155	rattan	2497	RATTAN
-156	red	156	RED
-157	red leaf monkey	1350	MONKEY
-158	return home	142	RETURN HOME
-159	rice	926	RICE
-160	rice grain	926	RICE
-161	right	1019	RIGHT
-162	river	666	RIVER
-163	river mouth	1701	RIVER MOUTH
-164	roof	769	ROOF
-165	roots	670	ROOT
-166	rope	1218	ROPE
-167	sand	671	SAND
-168	sap	345	SAP
-169	scale	266	SCALE
-170	see	1409	SEE
-171	send	1127	SEND
-172	seven	1704	SEVEN
-173	six	1703	SIX
-174	stone	857	STONE
-175	stop	2115	CEASE OR FINISH
-176	stump	241	TREE STUMP
-177	sugar cane	146	SUGAR CANE
-178	sun hat	2160	BAMBOO HAT
-179	sweat	125	SWEAT (SUBSTANCE)
-180	sweet	717	SWEET
-181	swim	1439	SWIM
-182	swollen	1573	SWELL
-183	tail	1220	TAIL
-184	take	1749	TAKE
-185	tall	711	TALL
-186	ten	1515	TEN
-187	termite	883	TERMITE
-188	thick	1244	THICK
-189	thigh	471	UPPER LEG (THIGH)
-190	thin	2308	THIN
-191	thorn	124	THORN
-192	three	492	THREE
-193	to lie	601	LIE (MISLEAD)
-194	tongue	1205	TONGUE
-195	tooth	1380	TOOTH
-196	tree	906	TREE
-197	true/correct	1725	CORRECT (RIGHT)
-198	twins	1005	TWINS
-199	two	1498	TWO
-200	unripe	1958	UNRIPE
-201	upriver		
-202	vein	1924	VEIN
-203	vomit	1278	VOMIT
-204	waist	1681	WAIST
-205	walk	1443	WALK
-206	wall	3830	WALL
-207	water	948	WATER
-208	weak	1601	WEAK
-209	weave	133	WEAVE
-210	western tarsier	3298	APE OR MONKEY
-211	wet	1726	WET
-212	white	1335	WHITE
-213	wing	1257	WING
-214	wipe	1454	WIPE
-215	woman	962	WOMAN
-216	worm	1219	WORM
-217	yam	410	YAM
-218	year	1226	YEAR
-219	yesterday	1174	YESTERDAY
-220	you	1215	THOU
-221	younger siblings	427	YOUNGER SIBLING
+ENGLISH	CONCEPTICON_GLOSS	CONCEPTICON_ID
+.false	FALSE	3069
+I	I	1209
+i		
+Owl		
+above	ABOVE	1741
+adam's apple		
+aflame	BURNING	1428
+afraid	SCARED	3033
+after		
+age	AGE	1789
+agree		
+alive	BE ALIVE	1422
+all		
+alone		
+already		
+always		
+ancestors		
+and	AND	1577
+angry		
+animal		
+ankle		
+annoyed		
+answer	ANSWER	1275
+ant		
+ape, orangutan		
+armpit		
+arrive		
+ash	ASH	646
+ask	ASK (INQUIRE)	1309
+aunt	AUNT	1272
+baby		
+baby carrier		
+back		
+bad	BAD	1292
+bait	BAIT	2013
+bamboo	BAMBOO	1927
+banana	BANANA	868
+banyan	BANYAN	346
+bark	BARK	1204
+barking deer	MUNTJACS	3152
+bathe	BATHE	138
+bear	BEAR	1820
+because		
+become		
+bee	BEE	665
+before		
+begin		
+behind		
+bent		
+betel chew		
+betel nut		
+between	BETWEEN	689
+big	BIG	1202
+binturong	CIVET	3157
+bird	BIRD	937
+bite		
+bitter	BITTER	887
+black	BLACK	163
+blader		
+blind		
+blink		
+blood	BLOOD	946
+blow nose		
+blow, as wind		
+blow, with mouth		
+blowpipe	BLOWGUN	432
+boar	BOAR (MALE PIG)	1348
+body		
+body hair		
+bone	BONE	1394
+bored		
+bowl		
+brain	BRAIN	1583
+branch	BRANCH	1531
+brave		
+breast	BREAST	1402
+breast feed		
+breathe	BREATHE	1407
+bridge		
+broom		
+burn		
+burp		
+burry	BURY	1719
+but		
+butterfly	BUTTERFLY	1791
+buy	BUY	1869
+calf	CALF	1989
+call		
+can; able		
+canine		
+canoe	CANOE	1970
+capsize	SINK (DESCEND)	1088
+carry as a backpack		
+carry as a handle		
+carry on the shoulder		
+carry under one arm		
+cat		
+cataract		
+catch as a ball		
+centepede		
+chair		
+cheek	CHEEK	1730
+chest	CHEST	1592
+chew	CHEW	321
+chicken	CHICKEN	1318
+child	CHILD	2099
+chin	CHIN	1510
+choke		
+choose	CHOOSE	1750
+chop as meat		
+cicada		
+clean		
+climb		
+cloud	CLOUD	1489
+cockroach	COCKROACH	1575
+coconut	COCONUT	970
+coffin		
+cold		
+collapse		
+come	COME	1446
+cook		
+cooked rice		
+corpse		
+coucal	CUCKOO	2934
+cough		
+count		
+cousin		
+crab	CRAB	2348
+crack		
+crocodile	CROCODILE	1857
+cry		
+dance		
+dark		
+dart	DARTS	2587
+daughter in law		
+day	DAY (NOT NIGHT)	1225
+deaf		
+death	DEATH	910
+deep		
+deer	DEER	1936
+derris root	FISH POISON	348
+diarrhea		
+die	DIE	1494
+different		
+difficult		
+dig		
+dirty		
+divide, pull or push apart		
+divorce/separate		
+dizzy		
+dog	DOG	2009
+dom. Pig		
+door	DOOR	1567
+downriver		
+dragon		
+dragonfly		
+dream	DREAMING OR DREAM	2455
+drink	DRINK	1401
+drop		
+drown		
+drum		
+drunk		
+dry		
+dull	BLUNT	379
+durian		
+dust		
+eagle		
+ear	EAR	1247
+earthworm	EARTHWORM	2350
+easy		
+eat	EAT	1336
+edge	EDGE	863
+egg	EGG	744
+egret	HERON	758
+eight	EIGHT	1705
+elbow	ELBOW	981
+empty	EMPTY	1624
+enemy		
+enough		
+enter	ENTER	749
+evening		
+every		
+every day		
+excrement	FAECES (EXCREMENT)	675
+eye	EYE	1248
+eye brow		
+eyelash		
+face	FACE	1560
+fall		
+far	FAR	1406
+fast	FAST	1631
+fat	FAT (OBESE)	1279
+fat (n)	FAT (ORGANIC SUBSTANCE)	323
+father		
+father in law		
+fathom	FATHOM	81
+feeling		
+fell	CUT DOWN	355
+fern	FERN	3802
+fever		
+few		
+field hut	HUT	1678
+fight		
+fill	FILL	2006
+fin	FIN	213
+find		
+finger		
+finger nail		
+finish		
+fire 		
+fireplace		
+firewood		
+firewood storage		
+fish		
+five	FIVE	493
+flat		
+flesh		
+float		
+flood		
+floor		
+flower		
+fly		
+flying lemur		
+fontanelle		
+food		
+forehead		
+forget		
+four	FOUR	1500
+friend		
+frighten		
+frog		
+from		
+fruit		
+fruit bat		
+fry		
+full		
+full, of food		
+gall		
+gecko		
+ghost		
+gibbon		
+gills		
+give		
+give birth		
+go		
+goiter		
+good		
+grainary		
+grandchild		
+grandfather		
+grandmother		
+grass		
+grasshopper		
+grave		
+great argus pheasant		
+grow, as a plant		
+gums		
+hair whirl		
+half		
+hammer		
+hand/arm		
+handspan		
+hang		
+happy		
+hard		
+harvest		
+hat		
+have		
+he/she		
+head		
+head hair		
+headhunting		
+heart		
+heavy		
+heel		
+helmeted hornbill		
+help		
+here		
+heron		
+hiccup		
+hide oneself		
+hoarse		
+hold		
+hole		
+hook		
+horn		
+hot		
+house	HOUSE	1252
+house post	POST	281
+how		
+how many		
+hundred		
+hungry	BE HUNGRY	1533
+hunt with a dog		
+husband		
+husk		
+if		
+in front		
+index finger		
+insect bat	BAT	1793
+inside		
+insult		
+intestinal worms		
+intestines		
+ironwood		
+island	ISLAND	622
+itchy	ITCHY	149
+jealous		
+jump		
+kick		
+kill		
+kiss		
+knee	KNEE	1371
+knife		
+knuckle	KNUCKLE	2824
+lake		
+land	LAND	626
+large fly		
+large mortar	MORTAR	224
+large pestle	PESTLE	225
+laugh	LAUGH	1355
+lazy		
+leaf	LEAF	628
+leak	DRIP (EMIT LIQUID)	2253
+learn		
+leave		
+leech	LEECH	2273
+left	LEFT	244
+leg		
+lend		
+leopard	LEOPARD	1139
+lid		
+lie down	LIE DOWN	215
+lift, carry		
+light weight	LIGHT (WEIGHT)	1052
+light/bright		
+lightening		
+like		
+lime		
+lips	LIP	478
+listen, hear		
+liver	LIVER	1224
+lizard		
+loincloth	LOINCLOTH	1965
+long	LONG	1203
+loose		
+lost		
+loud		
+louse	LOUSE	1392
+lowland plain		
+make		
+man	MAN	1554
+mantis		
+many		
+married		
+mat		
+measure	MEASURE	1506
+meet		
+millipede		
+mist		
+mix		
+molars		
+monitor		
+monkey	MONKEY	1350
+moon	MOON	1313
+morning		
+mosquito	MOSQUITO	1509
+moss	MOSS	637
+mother		
+mother in law		
+mountain		
+mouse deer	DEER	1936
+mouth	MOUTH	674
+mud		
+mushroom	MUSHROOM	641
+mute		
+naked		
+name	NAME	1405
+nape		
+narrow		
+navel	NAVEL	1838
+near		
+neck		
+nest	NEST	539
+new	NEW	1231
+next to		
+niece; nephew		
+night	NIGHT	1233
+nine	NINE	1483
+nipple		
+noon		
+nose		
+now		
+ocean	OCEAN	645
+old		
+older siblings		
+on top		
+one	ONE	1493
+only		
+open		
+or		
+otter	OTTER	15
+overflow		
+paddle	PADDLE	234
+painful		
+palate		
+palm	PALM TREE	1181
+pangolin	PANGOLIN	2508
+parang		
+peak/top		
+peel fruit		
+person	PERSON	683
+pinch		
+pinky	LITTLE FINGER	2774
+pit viper		
+place, noun		
+plant		
+plate		
+plateau		
+pluck	PICK	2148
+point		
+pond		
+porcupine	PORCUPINE	2510
+pound rice		
+pour	POUR	1487
+pregnant	PREGNANT	1123
+primary jungle		
+print		
+pull	PULL	1455
+punch		
+punnish		
+pus	PUS	1808
+push	PUSH	1452
+put down		
+python	PYTHON	1563
+quiet		
+raft	RAFT	1664
+rafter	RAFTER	829
+rain	RAINING OR RAIN	2108
+rainbow		
+rambutan	LYCHEE	3731
+rapids		
+rat		
+rattan	RATTAN	2497
+raw		
+receive		
+red	RED	156
+red leaf monkey	MONKEY	1350
+remember		
+rest		
+return		
+return home	RETURN HOME	142
+rhinoceros beetle		
+rhinoceros hornbill		
+rice	RICE	926
+rice grain	RICE	926
+rice wine		
+right	RIGHT	1019
+ripe		
+river	RIVER	666
+river mouth	RIVER MOUTH	1701
+road		
+roast		
+roll		
+roof	ROOF	769
+room		
+roots	ROOT	670
+rope	ROPE	1218
+rotten as meat		
+rub		
+run		
+sad		
+sago		
+saliva		
+salty		
+same; similar		
+sand	SAND	671
+sand fly		
+sap	SAP	345
+sape		
+say		
+scabbard		
+scale	SCALE	266
+scar		
+scold		
+scorpion		
+scratch		
+secondary jungle		
+see	SEE	1409
+seed		
+sell		
+send	SEND	1127
+seven	SEVEN	1704
+sew		
+shade		
+shadow		
+shallow		
+sharp		
+sharpen		
+shield		
+shin		
+shoot a blowpipe		
+short		
+shoulder		
+shout		
+shrimp		
+shy		
+sick		
+sit		
+six	SIX	1703
+skin		
+skin an animal		
+skink		
+skinny		
+skirt		
+sky		
+slap		
+sleep		
+sleep talk		
+slice		
+slip		
+slow		
+slow loris		
+small		
+smell, noun		
+smile		
+smoke (noun)		
+snail		
+snake		
+snap		
+sneeze		
+snore		
+snot		
+soft		
+son in law		
+song/sing		
+sour		
+speak		
+spicy		
+spider		
+spider hunter		
+spit		
+splash		
+split		
+squeeze		
+squirrel		
+stab		
+stairs		
+stand		
+star		
+stay; lodge		
+steal		
+sticky		
+stomach		
+stone	STONE	857
+stop	CEASE OR FINISH	2115
+story		
+straight		
+strong		
+stump	TREE STUMP	241
+sugar cane	SUGAR CANE	146
+sun hat	BAMBOO HAT	2160
+sunrise		
+sunset		
+supernatural storm		
+surprised		
+swallow		
+sweat	SWEAT (SUBSTANCE)	125
+sweep		
+sweet	SWEET	717
+sweet potato		
+swim	SWIM	1439
+swollen	SWELL	1573
+tail	TAIL	1220
+take	TAKE	1749
+tall	TALL	711
+tasteless		
+tattoo		
+tear		
+tell		
+ten	TEN	1515
+termite	TERMITE	883
+that, near		
+there, far		
+there, near		
+they 		
+thick	THICK	1244
+thigh	UPPER LEG (THIGH)	471
+thin	THIN	2308
+think		
+thirsty		
+this		
+thorn	THORN	124
+thousand		
+three	THREE	492
+throw		
+thumb		
+thunder		
+tie		
+tired		
+to clean		
+to dry		
+to lean		
+to lie	LIE (MISLEAD)	601
+to sting		
+to whistle		
+to wrap		
+toad		
+today		
+tomorrow		
+tongue	TONGUE	1205
+tooth	TOOTH	1380
+touch		
+tourtise		
+tree	TREE	906
+true/correct	CORRECT (RIGHT)	1725
+try		
+turn		
+turtle		
+twenty		
+twins	TWINS	1005
+two	TWO	1498
+uncle		
+under		
+understand		
+unripe	UNRIPE	1958
+unripe and dry		
+upriver		
+urinate		
+urine		
+valley		
+vein	VEIN	1924
+village		
+voice		
+vomit	VOMIT	1278
+waist	WAIST	1681
+wait		
+wake up		
+walk	WALK	1443
+wall	WALL	3830
+want		
+wash clothes		
+water	WATER	948
+waterfall		
+we pl exc		
+we pl incl		
+weak	WEAK	1601
+weave	WEAVE	133
+western tarsier	APE OR MONKEY	3298
+wet	WET	1726
+what		
+when		
+where		
+which		
+whirlpool		
+white	WHITE	1335
+who		
+why		
+wide		
+widow		
+widower		
+wife		
+wind		
+wing	WING	1257
+wipe	WIPE	1454
+with		
+woman	WOMAN	962
+wood pecker		
+worm	WORM	1219
+wring		
+yam	YAM	410
+yawn		
+year	YEAR	1226
+yellow brown monkey		
+yellow ringed cat snake		
+yesterday	YESTERDAY	1174
+you	THOU	1215
+you plural		
+young		
+younger siblings	YOUNGER SIBLING	427

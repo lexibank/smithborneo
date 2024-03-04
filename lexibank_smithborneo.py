@@ -8,7 +8,6 @@ from clldutils.misc import slug
 import attr
 
 
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "smithborneo"
@@ -47,8 +46,7 @@ class Dataset(BaseDataset):
         current_concept = ''
         maxcogid = 0
 
-        for row in progressbar(self.raw_dir.read_csv('Borneo_87_229.txt', delimiter='\t',
-                dicts=True)):
+        for row in progressbar(self.raw_dir.read_csv('cognates_95_229.csv', dicts=True, delimiter='\t')):
             if current_concept != row['concept']:
                 print("MAXCOGID", current_concept, row['concept'], maxcogid)
                 current_concept = row['concept']
@@ -58,9 +56,9 @@ class Dataset(BaseDataset):
                                 
             if row['Gold']:
                 temp_id = row['Gold']
-                
+
             cluster_id = current_concept+"::"+temp_id
-            
+
             if cluster_id in cogids:
                 cogid = cogids[cluster_id]
             else:
@@ -75,6 +73,8 @@ class Dataset(BaseDataset):
                         Source=["smithborneo2017"],
                         Cognacy=cogid
                         ):
+                if row['concept'] not in concepts:
+                    print(row['concept'])
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,

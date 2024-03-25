@@ -1,88 +1,96 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+Ambalo,Ambalo,emba1238,Embaloh,emb,Papunesia,1.3156,112.63,Austronesian
+Beketan,Beketan,buki1248,Bukitan,bkn,Papunesia,2.34947,114.895,Austronesian
+Indonesian,Indonesian/Malay,stan1327,Standard Malay-Indonesian,,,,,Austronesian
+Molbog,Molbog,molb1237,Molbog,pwm,Papunesia,7.956663,117.030502,Austronesian
+PKM,PKM,,,,,,,
+SegaiBasap,Segai Basap,sega1243,Segai,sge,Papunesia,1.97695,116.954,Austronesian
+TabalarBasap,Tabalar Basap,duma1254,Tabalar-Talisayan,,Papunesia,,,Austronesian
+Taman,Taman,tama1335,Taman (Indonesia),tmn,Papunesia,1.00003,112.975,Austronesian
 Aoheng,Aoheng,aohe1238,Aoheng,,Papunesia,1.03,114.24,Austronesian
 Apo_Kayan_Kayan,Apo Kayan Kayan,kaya1325,Kayan River Kayan,xkn,Papunesia,1.799,115.368,Austronesian
-Badeng,Badeng,,,,,3.17,115.22,
+Badeng,Badeng,main1275,Usun Apau Kenyah,xkl,Papunesia,3.17,115.22,Austronesian
 Bahau_Saq,Bahau Saq,baha1257,Bahau,bhv,Papunesia,-0.075,115.645,Austronesian
 Bakumpai,Bakumpai,baku1263,Bakumpai,bkr,Papunesia,-1.739,114.825,Austronesian
 Baram_Kayan,Baram Kayan,bara1370,Baram Kayan,kys,Papunesia,3.328,114.595,Austronesian
 Basap_Lebo_,Basap (Lebo),basa1286,Basap,bdb,Papunesia,0.911,117.573,Austronesian
 Begak,Begak,bega1240,Begak,,Papunesia,5.07,118.663,Austronesian
 Bekati,Bekati,beka1241,Riuk Bekati',bei,Papunesia,0.939,109.466,Austronesian
-Benuaq,Benuaq,,,,,-0.146,115.762,
+Benuaq,Benuaq,benu1246,Benua,,Papunesia,-0.146,115.762,Austronesian
 Benyadu,Benyadu,beny1237,Benyadu',byd,Papunesia,0.59,109.626,Austronesian
 Berawan_jeegan_,Berawan (jeegan),east2486,East Berawan,zbe,Papunesia,3.585,114.115,Austronesian
 Berawan_Terawan_,Berawan (Terawan),west2564,West Berawan,zbw,Papunesia,3.972,114.632,Austronesian
 Bonggi,Bonggi,bong1289,Bonggi,bdg,Papunesia,7.217,117.118,Austronesian
-BrDusun,BrDusun,,,,,4.591,114.505,
-Buket,Buket,,,,,1.417,112.568,
-Bulungan,Bulungan,,,,,2.821,117.392,
+BrDusun,BrDusun,brun1242,Brunei,kxd,Papunesia,4.591,114.505,Austronesian
+Buket,Buket,buka1261,Bukat,bvk,Papunesia,1.417,112.568,Austronesian
+Bulungan,Bulungan,bolo1268,Bolongan,blj,Papunesia,2.821,117.392,Austronesian
 Burusu,Burusu,buru1304,Burusu,bqr,Papunesia,3.556,116.628,Austronesian
 Busang,Busang,maha1298,Mahakam Busang,,Papunesia,0.775,114.539,Austronesian
 Dalat_Melanau,Dalat Melanau,dala1239,Dalat,,Papunesia,2.772,111.937,Austronesian
-Dumpas,Dumpas,,,,,5.93,117.42,
+Dumpas,Dumpas,dump1242,Dumpas,dmv,Papunesia,5.93,117.42,Austronesian
 Dusun,Dusun,dusu1267,Dusun Witu,duw,Papunesia,-2.204,114.965,Austronesian
 Gaai,Gaai,sega1244,Segah,,Papunesia,2.197,116.703,Austronesian
-Gah,Gah,,,,,3.239,114.821,
-Golik,Golik,,,,,0.52,110.582,
-Hliboi_Bidayuh,Hliboi Bidayuh,,,,,1.257,110.005,
+Gah,Gah,umal1239,Uma' Lasan,xky,Papunesia,3.239,114.821,Austronesian
+Golik,Golik,sout2922,Southern Land Dayak,,,0.52,110.582,Austronesian
+Hliboi_Bidayuh,Hliboi Bidayuh,baub1235,Bau-Jagoi Bidayuh,sne,Papunesia,1.257,110.005,Austronesian
 Hovongan,Hovongan,hovo1239,Hobongan,hov,Papunesia,0.739,113.528,Austronesian
 Idaan,Idaan,idaa1241,Ida'an,dbj,Papunesia,5.174,118.387,Austronesian
 Jangkang,Jangkang,jang1257,Jangkang,djo,Papunesia,0.539,110.908,Austronesian
-Kadazan_Kimanis,Kadazan Kimanis,,,,,5.623,115.909,
+Kadazan_Kimanis,Kadazan Kimanis,cent2100,Kadazan Dusun,dtp,Papunesia,5.623,115.909,Austronesian
 Kadorih,Kadorih,kado1243,Kadorih,,Papunesia,-0.482,114.567,Austronesian
 Kanowit,Kanowit,kano1244,Kanowit-Tanjong Melanau,kxn,Papunesia,2.09,112.162,Austronesian
-Kapuas,Kapuas,,,,,-1.913,114.456,
+Kapuas,Kapuas,mela1269,,,,-1.913,114.456,
 Kejaman,Kejaman,kaja1250,Kajaman,kag,Papunesia,2.74,113.836,Austronesian
 Kelabit,Kelabit,bari1288,Bario,,Papunesia,3.73,115.465,Austronesian
 Kelai,Kelai,kela1259,Kelai,,Papunesia,1.904,116.621,Austronesian
-Kendayan_2,Kendayan 2,,,,,0.678,109.737,
+Kendayan_2,Kendayan 2,kend1254,Kendayan-Belangin,knx,Papunesia,0.678,109.737,Austronesian
 Keninjal,Keninjal,keni1248,Keninjal,knl,Papunesia,-0.665,111.652,Austronesian
 Kereho,Kereho,kere1285,Kereho,xke,Papunesia,0.874,113.359,Austronesian
-Ketapang,Ketapang,,,,,-2.051,110.488,
+Ketapang,Ketapang,mala1538,Malayic,,,-2.051,110.488,Austronesian
 Kiput,Kiput,kipu1237,Kiput,kyi,Papunesia,3.972,114.436,Austronesian
-Laang,Laang,,,,,3.042,114.851,
+Laang,Laang,high1288,Highland Kenyah,,,3.042,114.851,Austronesian
 Lahanan,Lahanan,laha1253,Lahanan,lhn,Papunesia,2.741,113.836,Austronesian
-LBisaya,LBisaya,brun1245,Brunei Bisaya,bsb,Papunesia,4.789,114.972,Austronesian
-Lingkabau,Lingkabau,,,,,6.29,117.32,
-Lobu_Lanas,Lobu Lanas,,,,,5.39,116.58,
+LBisaya,LBisaya,brun1245,Brunei Bisaya-Dusun,bsb,Papunesia,4.789,114.972,Austronesian
+Lingkabau,Lingkabau,ling1266,Lingkabau Sugut,,Papunesia,6.29,117.32,Austronesian
+Lobu_Lanas,Lobu Lanas,lana1236,Lanas Lobu,ruu,Papunesia,5.39,116.58,Austronesian
 Long_Gelat,Long Gelat,long1405,Long Glat,,Papunesia,0.917,115.007,Austronesian
 Lotud,Lotud,lotu1250,Lotud,dtr,Papunesia,6.274,116.365,Austronesian
 Lun-Dayeh,Lun-Dayeh,lunb1237,Lun Bawang,,Papunesia,3.913,115.679,Austronesian
 Maanyan,Maanyan,maan1238,Ma'anyan,mhy,Papunesia,-0.926,114.905,Austronesian
 Miri,Miri,miri1267,Miri,,Africa,4.417,114.041,Kadugli-Krongo
 Modang_woeg_helag,Modang woeg helag,keli1252,Kelingan (Indonesia),,Papunesia,0.915,116.831,Austronesian
-Mpraa,Mpraa,,,,,3.148,116.467,
+Mpraa,Mpraa,mera1243,Merap,,Papunesia,3.148,116.467,Austronesian
 Mualang,Mualang,mual1241,Mualang,mtd,Papunesia,0.002,110.924,Austronesian
-Narum,Narum,,,,,4.417,114.041,
+Narum,Narum,naro1251,Narom,nrm,Papunesia,4.417,114.041,Austronesian
 Ngaju,Ngaju,ngaj1237,Ngaju,nij,Papunesia,-1.278,113.632,Austronesian
 Ngorek,Ngorek,long1402,Long Semiang,,Papunesia,3.112,115.127,Austronesian
 Pangkodan_Sanggau,Pangkodan Sanggau,sang1339,Sanggau,scg,Papunesia,0.114,110.591,Austronesian
-Papar,Papar,,,,,5.57,115.58,
-Paser,Paser,,,,,-1.832,116.181,
+Papar,Papar,papa1268,Papar,dpp,Papunesia,5.57,115.58,Austronesian
+Paser,Paser,pasi1257,Pasir,,Papunesia,-1.832,116.181,Austronesian
 Pawe,Pawe,umat1247,Uma Timai,,Papunesia,3.39,114.813,Austronesian
-Penan_Beku,Penan Beku,,,,,3.345,114.836,
+Penan_Beku,Penan Beku,west2563,Western Penan,pne,Papunesia,3.345,114.836,Austronesian
 Penan_Jekitan,Penan Jekitan,pena1268,Penan Silat,,Papunesia,2.858,114.93,Austronesian
-Penan_Mubui,Penan Mubui,,,,,3.176,115.043,
+Penan_Mubui,Penan Mubui,east2485,Eastern Penan,pez,Papunesia,3.176,115.043,Austronesian
 Punan_Aput,Punan Aput,puna1267,Punan Aput,pud,Papunesia,1.758,116.049,Austronesian
 Punan_Bah,Punan Bah,puna1276,Punan Bah,,Papunesia,2.371,113.333,Austronesian
-Punan_Lisum,Punan Lisum,,,,,1.758,116.049,
+Punan_Lisum,Punan Lisum,buka1263,Bukat-Ukit-Beketan-Lugat-Lisum,,,1.758,116.049,Austronesian
 Punan_Tuvu,Punan Tuvu',puna1266,Punan Tubu,puj,Papunesia,3.247,116.48,Austronesian
 Ribun,Ribun,ribu1241,Ribun,rir,Papunesia,0.206,110.441,Austronesian
-Rungus,Rungus,,,,,6.84,116.7,
-Sawa,Sawa,,,,,3.061,114.82,
+Rungus,Rungus,rung1259,Rungus,drg,Papunesia,6.84,116.7,Austronesian
+Sawa,Sawa,main1275,Usun Apau Kenyah,xkl,Papunesia,3.061,114.82,Austronesian
 SBisaya,SBisaya,saba1267,Sabah Bisaya,bsy,Papunesia,5.408,115.553,Austronesian
 Seberuang,Seberuang,sebe1242,Seberuang,sbx,Papunesia,-0.243,111.14,Austronesian
 Sebop_old_,Sebop (old),sebo1238,Sebop,sib,Papunesia,3.448,114.115,Austronesian
-Seguliud,Seguliud,,,,,5.59,118.031,
+Seguliud,Seguliud,abai1240,Abai Sungai,abf,Papunesia,5.59,118.031,Austronesian
 Sekapan,Sekapan,seka1248,Sekapan,skp,Papunesia,2.65,113.75,Austronesian
 Seputan,Seputan,sepu1237,Seputan,,Papunesia,0.682,114.431,Austronesian
-Sungkung,Sungkung,,,,,1.075,110.009,
-Tatana,Tatana,,,,,5.5,115.55,
+Sungkung,Sungkung,bida1239,Bidayuh-Southern Land Dayak,,,1.075,110.009,Austronesian
+Tatana,Tatana,tata1257,Tatana,txx,Papunesia,5.5,115.55,Austronesian
 Tau,Tau,umat1246,Uma Tau,,Papunesia,3.058,115.074,Austronesian
 Tawoyan,Tawoyan,tawo1243,Tawoyan,twy,Papunesia,-1.855,115.863,Austronesian
-Tidung_Sumbol,Tidung Sumbol,,,,,5.845,117.559,
-Timugon_Murut,Timugon Murut,,,,,5.18,115.83,
+Tidung_Sumbol,Tidung Sumbol,tidu1239,Tidung,tid,Papunesia,5.845,117.559,Austronesian
+Timugon_Murut,Timugon Murut,timu1262,Timugon Murut,tih,Papunesia,5.18,115.83,Austronesian
 Tunjung,Tunjung,tunj1244,Tunjung,tjg,Papunesia,-0.181,115.778,Austronesian
 Ukit,Ukit,ukit1237,Ukit,umi,Papunesia,2.216,114.16,Austronesian
-Upper_Kapuas_Iban,Upper Kapuas Iban,,,,,1.402,112.597,
-Vo,Vo,,,,,3.299,114.783,
+Upper_Kapuas_Iban,Upper Kapuas Iban,iban1264,Iban,iba,Papunesia,1.402,112.597,Austronesian
+Vo,Vo,lowl1270,Lowland Kenyah,,,3.299,114.783,Austronesian

@@ -28,23 +28,23 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ## Statistics
 
 
-![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
-![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 79%](https://img.shields.io/badge/BIPA-79%25-yellow.svg "BIPA: 79%")
+![CLTS SoundClass: 79%](https://img.shields.io/badge/CLTS%20SoundClass-79%25-yellow.svg "CLTS SoundClass: 79%")
 
-- **Varieties:** 87
-- **Concepts:** 221
-- **Lexemes:** 17,091
+- **Varieties:** 95
+- **Concepts:** 680
+- **Lexemes:** 50,997
 - **Sources:** 1
-- **Synonymy:** 1.04
-- **Cognacy:** 17,091 cognates in 2,965 cognate sets (1,478 singletons)
+- **Synonymy:** 1.05
+- **Cognacy:** 50,997 cognates in 8,972 cognate sets (4,026 singletons)
 - **Cognate Diversity:** 0.16
 - **Invalid lexemes:** 0
-- **Tokens:** 86,342
-- **Segments:** 139 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
-- **Inventory size (avg):** 31.71
+- **Tokens:** 276,390
+- **Segments:** 178 (38 BIPA errors, 38 CLTS sound class errors, 139 CLTS modified)
+- **Inventory size (avg):** 35.74
 
 # Contributors
 

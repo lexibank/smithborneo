@@ -1,681 +1,680 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1_above,above,,
-2_adamsapple,adam's apple,,
-3_aflame,aflame,,
-4_afraid,afraid,,
-5_after,after,,
-6_age,age,,
-7_agree,agree,,
-8_alive,alive,,
-9_all,all,,
-10_alone,alone,,
-11_already,already,,
-12_always,always,,
-13_ancestors,ancestors,,
-14_and,and,,
-15_angry,angry,,
-16_animal,animal,,
-17_ankle,ankle,,
-18_annoyed,annoyed,,
-19_answer,answer,,
-20_ant,ant,,
+1_above,above,1741,ABOVE
+2_adamsapple,adam's apple,802,ADAM'S APPLE
+3_aflame,aflame,1428,BURNING
+4_afraid,afraid,1419,FEAR (BE AFRAID)
+5_after,after,1685,AFTER
+6_age,age,1789,AGE
+7_agree,agree,3643,AGREE
+8_alive,alive,1422,BE ALIVE
+9_all,all,98,ALL
+10_alone,alone,1964,ALONE
+11_already,already,2576,ALREADY
+12_always,always,1676,ALWAYS
+13_ancestors,ancestors,1669,ANCESTORS
+14_and,and,1577,AND
+15_angry,angry,1826,ANGRY
+16_animal,animal,619,ANIMAL
+17_ankle,ankle,803,ANKLE
+18_annoyed,annoyed,2223,BE ANGRY
+19_answer,answer,1275,ANSWER
+20_ant,ant,587,ANT
 21_apeorangutan,"ape, orangutan",,
-22_armpit,armpit,,
-23_arrive,arrive,,
-24_ash,ash,,
-25_ask,ask,,
-26_aunt,aunt,,
-27_baby,baby,,
-28_babycarrier,baby carrier,,
-29_back,back,,
-30_bad,bad,,
-31_bait,bait,,
-32_bamboo,bamboo,,
-33_banana,banana,,
-34_banyan,banyan,,
-35_bark,bark,,
-36_barkingdeer,barking deer,,
-37_bathe,bathe,,
-38_bear,bear,,
-39_because,because,,
-40_become,become,,
-41_bee,bee,,
-42_before,before,,
-43_begin,begin,,
-44_behind,behind,,
-45_bent,bent,,
-46_betelchew,betel chew,,
-47_betelnut,betel nut,,
-48_between,between,,
-49_big,big,,
+22_armpit,armpit,1886,ARMPIT
+23_arrive,arrive,1387,ARRIVE
+24_ash,ash,646,ASH
+25_ask,ask,1309,ASK (INQUIRE)
+26_aunt,aunt,1272,AUNT
+27_baby,baby,1289,BABY
+28_babycarrier,baby carrier,3926,BABY CARRIER
+29_back,back,1291,BACK
+30_bad,bad,1292,BAD
+31_bait,bait,2013,BAIT
+32_bamboo,bamboo,1927,BAMBOO
+33_banana,banana,868,BANANA
+34_banyan,banyan,346,BANYAN
+35_bark,bark,1204,BARK
+36_barkingdeer,barking deer,3152,MUNTJACS
+37_bathe,bathe,138,BATHE
+38_bear,bear,1820,BEAR
+39_because,because,1157,BECAUSE
+40_become,become,1990,BECOME
+41_bee,bee,665,BEE
+42_before,before,1882,BEFORE
+43_begin,begin,1806,BEGIN
+44_behind,behind,1686,BEHIND
+45_bent,bent,297,CROOKED
+46_betelchew,betel chew,3161,CHEW BETEL
+47_betelnut,betel nut,217,BETELNUT
+48_between,between,689,BETWEEN
+49_big,big,1202,BIG
 50_binturong,binturong,,
-51_bird,bird,,
-52_bite,bite,,
-53_bitter,bitter,,
-54_black,black,,
-55_blader,blader,,
-56_blind,blind,,
-57_blink,blink,,
-58_blood,blood,,
-59_blowaswind,"blow, as wind",,
-60_blownose,blow nose,,
+51_bird,bird,937,BIRD
+52_bite,bite,1403,BITE
+53_bitter,bitter,887,BITTER
+54_black,black,163,BLACK
+55_blader,blader,1746,BLADDER
+56_blind,blind,1653,BLIND
+57_blink,blink,1655,BLINK
+58_blood,blood,946,BLOOD
+59_blowaswind,"blow, as wind",175,BLOW (OF WIND)
+60_blownose,blow nose,2679,BLOW (WITH NOSE)
 61_blowpipe,blowpipe,,
-62_blowwithmouth,"blow, with mouth",,
-63_boar,boar,,
-64_body,body,,
-65_bodyhair,body hair,,
-66_bone,bone,,
+62_blowwithmouth,"blow, with mouth",176,BLOW (WITH MOUTH)
+63_boar,boar,1348,BOAR (MALE PIG)
+64_body,body,1480,BODY
+65_bodyhair,body hair,189,HAIR (BODY)
+66_bone,bone,1394,BONE
 67_bored,bored,,
-68_bowl,bowl,,
-69_brain,brain,,
-70_branch,branch,,
-71_brave,brave,,
-72_breast,breast,,
-73_breastfeed,breast feed,,
-74_breathe,breathe,,
-75_bridge,bridge,,
-76_broom,broom,,
-77_burn,burn,,
-78_burp,burp,,
-79_burry,burry,,
-80_but,but,,
-81_butterfly,butterfly,,
-82_buy,buy,,
-83_calf,calf,,
-84_call,call,,
-85_canable,can; able,,
+68_bowl,bowl,1530,BOWL
+69_brain,brain,1583,BRAIN
+70_branch,branch,1531,BRANCH
+71_brave,brave,3,BRAVE
+72_breast,breast,1402,BREAST
+73_breastfeed,breast feed,2472,"SUCKLE (BREASTFEED, NURSE)"
+74_breathe,breathe,1407,BREATHE
+75_bridge,bridge,1011,BRIDGE
+76_broom,broom,245,BROOM
+77_burn,burn,141,BURN (SOMETHING)
+78_burp,burp,2789,BURP
+79_burry,burry,1719,BURY
+80_but,but,3843,BUT
+81_butterfly,butterfly,1791,BUTTERFLY
+82_buy,buy,1869,BUY
+83_calf,calf,1989,CALF
+84_call,call,1084,CALL
+85_canable,can; able,972,BE ABLE
 86_canine,canine,,
-87_canoe,canoe,,
+87_canoe,canoe,1970,CANOE
 88_capsize,capsize,,
 89_carryasabackpack,carry as a backpack,,
 90_carryasahandle,carry as a handle,,
-91_carryontheshoulder,carry on the shoulder,,
-92_carryunderonearm,carry under one arm,,
-93_cat,cat,,
+91_carryontheshoulder,carry on the shoulder,413,CARRY ON SHOULDER
+92_carryunderonearm,carry under one arm,415,CARRY UNDER ARM
+93_cat,cat,1208,CAT
 94_cataract,cataract,,
 95_catchasaball,catch as a ball,,
-96_centepede,centepede,,
-97_chair,chair,,
-98_cheek,cheek,,
-99_chest,chest,,
-100_chew,chew,,
-101_chicken,chicken,,
-102_child,child,,
-103_chin,chin,,
-104_choke,choke,,
-105_choose,choose,,
-106_chopasmeat,chop as meat,,
-107_cicada,cicada,,
-108_clean,clean,,
-109_climb,climb,,
-110_cloud,cloud,,
-111_cockroach,cockroach,,
-112_coconut,coconut,,
-113_coffin,coffin,,
-114_cold,cold,,
-115_collapse,collapse,,
-116_come,come,,
-117_cook,cook,,
-118_cookedrice,cooked rice,,
-119_corpse,corpse,,
+96_centepede,centepede,1974,CENTIPEDE
+97_chair,chair,1476,CHAIR
+98_cheek,cheek,1730,CHEEK
+99_chest,chest,1592,CHEST
+100_chew,chew,321,CHEW
+101_chicken,chicken,1318,CHICKEN
+102_child,child,2099,CHILD
+103_chin,chin,1510,CHIN
+104_choke,choke,129,CHOKE
+105_choose,choose,1750,CHOOSE
+106_chopasmeat,chop as meat,155,CHOP
+107_cicada,cicada,2353,CICADA
+108_clean,clean,2235,CLEAN (SOMETHING)
+109_climb,climb,1102,CLIMB
+110_cloud,cloud,1489,CLOUD
+111_cockroach,cockroach,1575,COCKROACH
+112_coconut,coconut,970,COCONUT
+113_coffin,coffin,2011,COFFIN
+114_cold,cold,1287,COLD
+115_collapse,collapse,3986,COLLAPSE
+116_come,come,1446,COME
+117_cook,cook,1100,COOK (SOMETHING)
+118_cookedrice,cooked rice,1191,COOKED RICE
+119_corpse,corpse,767,CORPSE
 120_coucal,coucal,,
-121_cough,cough,,
-122_count,count,,
-123_cousin,cousin,,
-124_crab,crab,,
-125_crack,crack,,
-126_crocodile,crocodile,,
-127_cry,cry,,
-128_dance,dance,,
-129_dark,dark,,
-130_dart,dart,,
-131_daughterinlaw,daughter in law,,
-132_day,day,,
-133_deaf,deaf,,
-134_death,death,,
-135_deep,deep,,
-136_deer,deer,,
+121_cough,cough,3913,COUGH (ACT OF COUGHING)
+122_count,count,1420,COUNT
+123_cousin,cousin,1643,COUSIN
+124_crab,crab,2348,CRAB
+125_crack,crack,3080,SPLIT OPEN
+126_crocodile,crocodile,1857,CROCODILE
+127_cry,cry,1839,CRY
+128_dance,dance,1879,DANCE
+129_dark,dark,706,DARK
+130_dart,dart,2587,DARTS
+131_daughterinlaw,daughter in law,1057,DAUGHTER-IN-LAW
+132_day,day,1225,DAY (NOT NIGHT)
+133_deaf,deaf,996,DEAF
+134_death,death,910,DEATH
+135_deep,deep,1593,DEEP
+136_deer,deer,1936,DEER
 137_derrisroot,derris root,,
-138_diarrhea,diarrhea,,
-139_die,die,,
-140_different,different,,
-141_difficult,difficult,,
-142_dig,dig,,
-143_dirty,dirty,,
-144_dividepullorpushapart,"divide, pull or push apart",,
-145_divorceseparate,divorce/separate,,
-146_dizzy,dizzy,,
-147_dog,dog,,
-148_dompig,dom. Pig,,
-149_door,door,,
+138_diarrhea,diarrhea,1177,DIARRHEA
+139_die,die,1494,DIE
+140_different,different,2504,DIFFERENT
+141_difficult,difficult,584,DIFFICULT
+142_dig,dig,1418,DIG
+143_dirty,dirty,1230,DIRTY
+144_dividepullorpushapart,"divide, pull or push apart",1359,SEPARATE
+145_divorceseparate,divorce/separate,3672,DIVORCE (SEPARATE)
+146_dizzy,dizzy,2712,GET DIZZY
+147_dog,dog,2009,DOG
+148_dompig,dom. Pig,1337,PIG
+149_door,door,1567,DOOR
 150_downriver,downriver,,
-151_dragon,dragon,,
-152_dragonfly,dragonfly,,
-153_dream,dream,,
-154_drink,drink,,
-155_drop,drop,,
-156_drown,drown,,
-157_drum,drum,,
-158_drunk,drunk,,
-159_dry,dry,,
-160_dull,dull,,
+151_dragon,dragon,2038,DRAGON
+152_dragonfly,dragonfly,2352,DRAGONFLY
+153_dream,dream,2374,DREAM
+154_drink,drink,1401,DRINK
+155_drop,drop,750,DROP
+156_drown,drown,1904,DROWN
+157_drum,drum,908,DRUM
+158_drunk,drunk,1463,DRUNK
+159_dry,dry,1398,DRY
+160_dull,dull,379,BLUNT
 161_durian,durian,,
-162_dust,dust,,
-163_eagle,eagle,,
-164_ear,ear,,
-165_earthworm,earthworm,,
-166_easy,easy,,
-167_eat,eat,,
-168_edge,edge,,
-169_egg,egg,,
-170_egret,egret,,
-171_eight,eight,,
-172_elbow,elbow,,
-173_empty,empty,,
-174_enemy,enemy,,
-175_enough,enough,,
-176_enter,enter,,
-177_evening,evening,,
-178_every,every,,
+162_dust,dust,2,DUST
+163_eagle,eagle,1905,EAGLE
+164_ear,ear,1247,EAR
+165_earthworm,earthworm,2350,EARTHWORM
+166_easy,easy,686,EASY
+167_eat,eat,1336,EAT
+168_edge,edge,863,EDGE
+169_egg,egg,744,EGG
+170_egret,egret,758,HERON
+171_eight,eight,1705,EIGHT
+172_elbow,elbow,981,ELBOW
+173_empty,empty,1624,EMPTY
+174_enemy,enemy,1358,ENEMY
+175_enough,enough,1881,ENOUGH
+176_enter,enter,749,ENTER
+177_evening,evening,1629,EVENING
+178_every,every,98,ALL
 179_everyday,every day,,
-180_excrement,excrement,,
-181_eye,eye,,
-182_eyebrow,eye brow,,
-183_eyelash,eyelash,,
-184_face,face,,
-185_fall,fall,,
-186_false,.false,,
-187_far,far,,
-188_fast,fast,,
-189_fat,fat,,
-190_father,father,,
-191_fatherinlaw,father in law,,
-192_fathom,fathom,,
-193_fatn,fat (n),,
-194_feeling,feeling,,
-195_fell,fell,,
-196_fern,fern,,
-197_fever,fever,,
-198_few,few,,
+180_excrement,excrement,675,FAECES (EXCREMENT)
+181_eye,eye,1248,EYE
+182_eyebrow,eye brow,1173,EYEBROW
+183_eyelash,eyelash,1540,EYELASH
+184_face,face,1560,FACE
+185_fall,fall,1280,FALL
+186_false,.false,3069,FALSE
+187_far,far,1406,FAR
+188_fast,fast,1631,FAST
+189_fat,fat,1279,FAT (OBESE)
+190_father,father,1217,FATHER
+191_fatherinlaw,father in law,1055,FATHER-IN-LAW
+192_fathom,fathom,81,FATHOM
+193_fatn,fat (n),323,FAT (ORGANIC SUBSTANCE)
+194_feeling,feeling,2573,FEELING (EMOTION)
+195_fell,fell,355,CUT DOWN
+196_fern,fern,3802,FERN
+197_fever,fever,1534,FEVER
+198_few,few,1242,FEW
 199_fieldhut,field hut,,
-200_fight,fight,,
-201_fill,fill,,
-202_fin,fin,,
-203_find,find,,
-204_finger,finger,,
-205_fingernail,finger nail,,
-206_finish,finish,,
-207_fire,fire ,,
-208_fireplace,fireplace,,
-209_firewood,firewood,,
+200_fight,fight,1423,FIGHT
+201_fill,fill,2006,FILL
+202_fin,fin,213,FIN
+203_find,find,719,FIND
+204_finger,finger,1303,FINGER
+205_fingernail,finger nail,1258,FINGERNAIL
+206_finish,finish,1766,FINISH
+207_fire,fire ,221,FIRE
+208_fireplace,fireplace,185,FIREPLACE
+209_firewood,firewood,10,FIREWOOD
 210_firewoodstorage,firewood storage,,
-211_fish,fish,,
-212_five,five,,
-213_flat,flat,,
-214_flesh,flesh,,
-215_float,float,,
-216_flood,flood,,
-217_floor,floor,,
-218_flower,flower,,
-219_fly,fly,,
+211_fish,fish,227,FISH
+212_five,five,493,FIVE
+213_flat,flat,1633,FLAT
+214_flesh,flesh,2259,FLESH
+215_float,float,1574,FLOAT
+216_flood,flood,613,HIGH TIDE
+217_floor,floor,1632,FLOOR
+218_flower,flower,239,FLOWER
+219_fly,fly,1441,FLY (MOVE THROUGH AIR)
 220_flyinglemur,flying lemur,,
 221_fontanelle,fontanelle,,
-222_food,food,,
-223_forehead,forehead,,
-224_forget,forget,,
-225_four,four,,
-226_friend,friend,,
-227_frighten,frighten,,
-228_frog,frog,,
-229_from,from,,
-230_fruit,fruit,,
+222_food,food,256,FOOD
+223_forehead,forehead,123,FOREHEAD
+224_forget,forget,1523,FORGET
+225_four,four,1500,FOUR
+226_friend,friend,1325,FRIEND
+227_frighten,frighten,252,FRIGHTEN
+228_frog,frog,503,FROG
+229_from,from,693,FROM
+230_fruit,fruit,1507,FRUIT
 231_fruitbat,fruit bat,,
-232_fry,fry,,
-233_full,full,,
-234_fulloffood,"full, of food",,
-235_gall,gall,,
-236_gecko,gecko,,
-237_ghost,ghost,,
-238_gibbon,gibbon,,
-239_gills,gills,,
-240_give,give,,
-241_givebirth,give birth,,
-242_go,go,,
-243_goiter,goiter,,
-244_good,good,,
+232_fry,fry,991,FRY
+233_full,full,1429,FULL
+234_fulloffood,"full, of food",106,SATIATED
+235_gall,gall,1780,BILE
+236_gecko,gecko,2355,GECKO
+237_ghost,ghost,1175,GHOST
+238_gibbon,gibbon,2511,GIBBON
+239_gills,gills,1916,GILL
+240_give,give,1447,GIVE
+241_givebirth,give birth,1195,GIVE BIRTH
+242_go,go,695,GO
+243_goiter,goiter,1957,GOITER
+244_good,good,1035,GOOD
 245_grainary,grainary,,
-246_grandchild,grandchild,,
-247_grandfather,grandfather,,
-248_grandmother,grandmother,,
-249_grass,grass,,
-250_grasshopper,grasshopper,,
-251_grave,grave,,
+246_grandchild,grandchild,1617,GRANDCHILD
+247_grandfather,grandfather,1383,GRANDFATHER
+248_grandmother,grandmother,1496,GRANDMOTHER
+249_grass,grass,606,GRASS
+250_grasshopper,grasshopper,607,GRASSHOPPER
+251_grave,grave,1773,GRAVE
 252_greatarguspheasant,great argus pheasant,,
-253_growasaplant,"grow, as a plant",,
-254_gums,gums,,
+253_growasaplant,"grow, as a plant",479,GROW
+254_gums,gums,139,GUMS
 255_hairwhirl,hair whirl,,
-256_half,half,,
-257_hammer,hammer,,
-258_handarm,hand/arm,,
-259_handspan,handspan,,
-260_hang,hang,,
-261_happy,happy,,
-262_hard,hard,,
-263_harvest,harvest,,
-264_hat,hat,,
-265_have,have,,
-266_head,head,,
-267_headhair,head hair,,
+256_half,half,816,HALF
+257_hammer,hammer,1481,HAMMER
+258_handarm,hand/arm,2121,ARM OR HAND
+259_handspan,handspan,3838,HANDSPAN
+260_hang,hang,2884,HANG
+261_happy,happy,1495,HAPPY
+262_hard,hard,1884,HARD
+263_harvest,harvest,1827,HARVEST CROPS
+264_hat,hat,771,HAT
+265_have,have,773,HAVE
+266_head,head,1256,HEAD
+267_headhair,head hair,2648,HAIR (HEAD)
 268_headhunting,headhunting,,
-269_heart,heart,,
-270_heavy,heavy,,
-271_heel,heel,,
+269_heart,heart,1223,HEART
+270_heavy,heavy,1210,HEAVY
+271_heel,heel,980,HEEL
 272_helmetedhornbill,helmeted hornbill,,
-273_help,help,,
-274_here,here,,
-275_heron,heron,,
-276_heshe,he/she,,
-277_hiccup,hiccup,,
-278_hideoneself,hide oneself,,
-279_hoarse,hoarse,,
-280_hold,hold,,
-281_hole,hole,,
-282_hook,hook,,
-283_horn,horn,,
-284_hot,hot,,
-285_house,house,,
-286_housepost,house post,,
-287_how,how,,
-288_howmany,how many,,
-289_hundred,hundred,,
-290_hungry,hungry,,
+273_help,help,1897,HELP
+274_here,here,136,HERE
+275_heron,heron,758,HERON
+276_heshe,he/she,2642,HE OR SHE
+277_hiccup,hiccup,162,HICCOUGH
+278_hideoneself,hide oneself,2485,HIDE (ONESELF)
+279_hoarse,hoarse,3987,HOARSE
+280_hold,hold,1448,HOLD
+281_hole,hole,1667,HOLE
+282_hook,hook,1071,HOOK
+283_horn,horn,1393,HORN (ANATOMY)
+284_hot,hot,1286,HOT
+285_house,house,1252,HOUSE
+286_housepost,house post,281,POST
+287_how,how,1239,HOW
+288_howmany,how many,822,HOW MANY
+289_hundred,hundred,1634,HUNDRED
+290_hungry,hungry,1533,BE HUNGRY
 291_huntwithadog,hunt with a dog,,
-292_husband,husband,,
-293_husk,husk,,
-294_i,i,,
-295_i,I,,
-296_if,if,,
-297_indexfinger,index finger,,
-298_infront,in front,,
-299_insectbat,insect bat,,
-300_inside,inside,,
-301_insult,insult,,
-302_intestinalworms,intestinal worms,,
-303_intestines,intestines,,
-304_ironwood,ironwood,,
-305_island,island,,
-306_itchy,itchy,,
-307_jealous,jealous,,
-308_jump,jump,,
-309_kick,kick,,
-310_kill,kill,,
-311_kiss,kiss,,
-312_knee,knee,,
-313_knife,knife,,
-314_knuckle,knuckle,,
-315_lake,lake,,
-316_land,land,,
-317_largefly,large fly,,
-318_largemortar,large mortar,,
-319_largepestle,large pestle,,
-320_laugh,laugh,,
-321_lazy,lazy,,
-322_leaf,leaf,,
-323_leak,leak,,
-324_learn,learn,,
-325_leave,leave,,
-326_leech,leech,,
-327_left,left,,
-328_leg,leg,,
-329_lend,lend,,
-330_leopard,leopard,,
-331_lid,lid,,
-332_liedown,lie down,,
-333_liftcarry,"lift, carry",,
-334_lightbright,light/bright,,
-335_lightening,lightening,,
-336_lightweight,light weight,,
-337_like,like,,
-338_lime,lime,,
-339_lips,lips,,
-340_listenhear,"listen, hear",,
-341_liver,liver,,
-342_lizard,lizard,,
-343_loincloth,loincloth,,
-344_long,long,,
-345_loose,loose,,
-346_lost,lost,,
-347_loud,loud,,
-348_louse,louse,,
-349_lowlandplain,lowland plain,,
-350_make,make,,
-351_man,man,,
-352_mantis,mantis,,
-353_many,many,,
-354_married,married,,
-355_mat,mat,,
-356_measure,measure,,
-357_meet,meet,,
-358_millipede,millipede,,
-359_mist,mist,,
-360_mix,mix,,
-361_molars,molars,,
-362_monitor,monitor,,
-363_monkey,monkey,,
-364_moon,moon,,
-365_morning,morning,,
-366_mosquito,mosquito,,
-367_moss,moss,,
-368_mother,mother,,
-369_motherinlaw,mother in law,,
-370_mountain,mountain,,
-371_mousedeer,mouse deer,,
-372_mouth,mouth,,
-373_mud,mud,,
-374_mushroom,mushroom,,
-375_mute,mute,,
-376_naked,naked,,
-377_name,name,,
-378_nape,nape,,
-379_narrow,narrow,,
-380_navel,navel,,
-381_near,near,,
-382_neck,neck,,
-383_nest,nest,,
-384_new,new,,
-385_nextto,next to,,
-386_niecenephew,niece; nephew,,
-387_night,night,,
-388_nine,nine,,
-389_nipple,nipple,,
-390_noon,noon,,
-391_nose,nose,,
-392_now,now,,
-393_ocean,ocean,,
-394_old,old,,
-395_oldersiblings,older siblings,,
-396_one,one,,
-397_only,only,,
-398_ontop,on top,,
-399_open,open,,
-400_or,or,,
-401_otter,otter,,
-402_overflow,overflow,,
-403_owl,Owl,,
-404_paddle,paddle,,
-405_painful,painful,,
-406_palate,palate,,
-407_palm,palm,,
-408_pangolin,pangolin,,
-409_parang,parang,,
-410_peaktop,peak/top,,
-411_peelfruit,peel fruit,,
-412_person,person,,
-413_pinch,pinch,,
-414_pinky,pinky,,
-415_pitviper,pit viper,,
-416_placenoun,"place, noun",,
-417_plant,plant,,
-418_plate,plate,,
-419_plateau,plateau,,
-420_pluck,pluck,,
-421_point,point,,
-422_pond,pond,,
-423_porcupine,porcupine,,
-424_poundrice,pound rice,,
-425_pour,pour,,
-426_pregnant,pregnant,,
-427_primaryjungle,primary jungle,,
-428_print,print,,
-429_pull,pull,,
-430_punch,punch,,
-431_punnish,punnish,,
-432_pus,pus,,
-433_push,push,,
-434_putdown,put down,,
-435_python,python,,
-436_quiet,quiet,,
-437_raft,raft,,
-438_rafter,rafter,,
-439_rain,rain,,
-440_rainbow,rainbow,,
-441_rambutan,rambutan,,
-442_rapids,rapids,,
-443_rat,rat,,
-444_rattan,rattan,,
-445_raw,raw,,
-446_receive,receive,,
-447_red,red,,
-448_redleafmonkey,red leaf monkey,,
-449_remember,remember,,
-450_rest,rest,,
-451_return,return,,
-452_returnhome,return home,,
-453_rhinocerosbeetle,rhinoceros beetle,,
-454_rhinoceroshornbill,rhinoceros hornbill,,
-455_rice,rice,,
-456_ricegrain,rice grain,,
-457_ricewine,rice wine,,
-458_right,right,,
-459_ripe,ripe,,
-460_river,river,,
-461_rivermouth,river mouth,,
-462_road,road,,
-463_roast,roast,,
-464_roll,roll,,
-465_roof,roof,,
-466_room,room,,
-467_roots,roots,,
-468_rope,rope,,
-469_rottenasmeat,rotten as meat,,
-470_rub,rub,,
-471_run,run,,
-472_sad,sad,,
-473_sago,sago,,
-474_saliva,saliva,,
-475_salty,salty,,
-476_samesimilar,same; similar,,
-477_sand,sand,,
-478_sandfly,sand fly,,
-479_sap,sap,,
-480_sape,sape,,
-481_say,say,,
-482_scabbard,scabbard,,
-483_scale,scale,,
-484_scar,scar,,
-485_scold,scold,,
-486_scorpion,scorpion,,
-487_scratch,scratch,,
-488_secondaryjungle,secondary jungle,,
-489_see,see,,
-490_seed,seed,,
-491_sell,sell,,
-492_send,send,,
-493_seven,seven,,
-494_sew,sew,,
-495_shade,shade,,
-496_shadow,shadow,,
-497_shallow,shallow,,
-498_sharp,sharp,,
-499_sharpen,sharpen,,
-500_shield,shield,,
-501_shin,shin,,
-502_shootablowpipe,shoot a blowpipe,,
-503_short,short,,
-504_shoulder,shoulder,,
-505_shout,shout,,
-506_shrimp,shrimp,,
-507_shy,shy,,
-508_sick,sick,,
-509_sit,sit,,
-510_six,six,,
-511_skin,skin,,
-512_skinananimal,skin an animal,,
-513_skink,skink,,
-514_skinny,skinny,,
-515_skirt,skirt,,
-516_sky,sky,,
-517_slap,slap,,
-518_sleep,sleep,,
-519_sleeptalk,sleep talk,,
-520_slice,slice,,
-521_slip,slip,,
-522_slow,slow,,
-523_slowloris,slow loris,,
-524_small,small,,
-525_smellnoun,"smell, noun",,
-526_smile,smile,,
-527_smokenoun,smoke (noun),,
-528_snail,snail,,
-529_snake,snake,,
-530_snap,snap,,
-531_sneeze,sneeze,,
-532_snore,snore,,
-533_snot,snot,,
-534_soft,soft,,
-535_songsing,song/sing,,
-536_soninlaw,son in law,,
-537_sour,sour,,
-538_speak,speak,,
-539_spicy,spicy,,
-540_spider,spider,,
-541_spiderhunter,spider hunter,,
-542_spit,spit,,
-543_splash,splash,,
-544_split,split,,
-545_squeeze,squeeze,,
-546_squirrel,squirrel,,
-547_stab,stab,,
-548_stairs,stairs,,
-549_stand,stand,,
-550_star,star,,
-551_staylodge,stay; lodge,,
-552_steal,steal,,
-553_sticky,sticky,,
-554_stomach,stomach,,
-555_stone,stone,,
-556_stop,stop,,
-557_story,story,,
-558_straight,straight,,
-559_strong,strong,,
-560_stump,stump,,
-561_sugarcane,sugar cane,,
-562_sunhat,sun hat,,
-563_sunrise,sunrise,,
-564_sunset,sunset,,
-565_supernaturalstorm,supernatural storm,,
-566_surprised,surprised,,
-567_swallow,swallow,,
-568_sweat,sweat,,
-569_sweep,sweep,,
-570_sweet,sweet,,
-571_sweetpotato,sweet potato,,
-572_swim,swim,,
-573_swollen,swollen,,
-574_tail,tail,,
-575_take,take,,
-576_tall,tall,,
-577_tasteless,tasteless,,
-578_tattoo,tattoo,,
-579_tear,tear,,
-580_tell,tell,,
-581_ten,ten,,
-582_termite,termite,,
-583_thatnear,"that, near",,
-584_therefar,"there, far",,
-585_therenear,"there, near",,
-586_they,they ,,
-587_thick,thick,,
-588_thigh,thigh,,
-589_thin,thin,,
-590_think,think,,
-591_thirsty,thirsty,,
-592_this,this,,
-593_thorn,thorn,,
-594_thousand,thousand,,
-595_three,three,,
-596_throw,throw,,
-597_thumb,thumb,,
-598_thunder,thunder,,
-599_tie,tie,,
-600_tired,tired,,
-601_toad,toad,,
-602_toclean,to clean,,
-603_today,today,,
-604_todry,to dry,,
-605_tolean,to lean,,
-606_tolie,to lie,,
-607_tomorrow,tomorrow,,
-608_tongue,tongue,,
-609_tooth,tooth,,
-610_tosting,to sting,,
-611_touch,touch,,
-612_tourtise,tourtise,,
-613_towhistle,to whistle,,
-614_towrap,to wrap,,
-615_tree,tree,,
-616_truecorrect,true/correct,,
-617_try,try,,
-618_turn,turn,,
-619_turtle,turtle,,
-620_twenty,twenty,,
-621_twins,twins,,
-622_two,two,,
-623_uncle,uncle,,
-624_under,under,,
-625_understand,understand,,
-626_unripe,unripe,,
-627_unripeanddry,unripe and dry,,
-628_upriver,upriver,,
-629_urinate,urinate,,
-630_urine,urine,,
-631_valley,valley,,
-632_vein,vein,,
-633_village,village,,
-634_voice,voice,,
-635_vomit,vomit,,
-636_waist,waist,,
-637_wait,wait,,
-638_wakeup,wake up,,
-639_walk,walk,,
-640_wall,wall,,
-641_want,want,,
-642_washclothes,wash clothes,,
-643_water,water,,
-644_waterfall,waterfall,,
-645_weak,weak,,
-646_weave,weave,,
-647_weplexc,we pl exc,,
-648_weplincl,we pl incl,,
-649_westerntarsier,western tarsier,,
-650_wet,wet,,
-651_what,what,,
-652_when,when,,
-653_where,where,,
-654_which,which,,
-655_whirlpool,whirlpool,,
-656_white,white,,
-657_who,who,,
-658_why,why,,
-659_wide,wide,,
-660_widow,widow,,
-661_widower,widower,,
-662_wife,wife,,
-663_wind,wind,,
-664_wing,wing,,
-665_wipe,wipe,,
-666_with,with,,
-667_woman,woman,,
-668_woodpecker,wood pecker,,
-669_worm,worm,,
-670_wring,wring,,
-671_yam,yam,,
-672_yawn,yawn,,
-673_year,year,,
-674_yellowbrownmonkey,yellow brown monkey,,
-675_yellowringedcatsnake,yellow ringed cat snake,,
-676_yesterday,yesterday,,
-677_you,you,,
-678_young,young,,
-679_youngersiblings,younger siblings,,
-680_youplural,you plural,,
+292_husband,husband,1200,HUSBAND
+293_husk,husk,2363,CHAFF (HUSK)
+294_i,i,1209,I
+295_if,if,1459,IF
+296_indexfinger,index finger,577,FOREFINGER
+297_infront,in front,1883,IN FRONT OF
+298_insectbat,insect bat,,
+299_inside,inside,1606,INSIDE
+300_insult,insult,3204,INSULT
+301_intestinalworms,intestinal worms,3623,INTESTINAL WORM
+302_intestines,intestines,1991,INTESTINES
+303_ironwood,ironwood,,
+304_island,island,622,ISLAND
+305_itchy,itchy,149,ITCHY
+306_jealous,jealous,2821,JEALOUS
+307_jump,jump,1829,JUMP
+308_kick,kick,1135,KICK
+309_kill,kill,1417,KILL
+310_kiss,kiss,578,KISS
+311_knee,knee,1371,KNEE
+312_knife,knife,1352,KNIFE
+313_knuckle,knuckle,2824,KNUCKLE
+314_lake,lake,624,LAKE
+315_land,land,626,LAND
+316_largefly,large fly,,
+317_largemortar,large mortar,,
+318_largepestle,large pestle,,
+319_laugh,laugh,1355,LAUGH
+320_lazy,lazy,1564,LAZY
+321_leaf,leaf,628,LEAF
+322_leak,leak,2253,DRIP (EMIT LIQUID)
+323_learn,learn,504,LEARN
+324_leave,leave,1752,LEAVE
+325_leech,leech,2273,LEECH
+326_left,left,244,LEFT
+327_leg,leg,1297,LEG
+328_lend,lend,582,LEND
+329_leopard,leopard,1139,LEOPARD
+330_lid,lid,2319,"LID (COVER, CAP)"
+331_liedown,lie down,215,LIE DOWN
+332_liftcarry,"lift, carry",,
+333_lightbright,light/bright,,
+334_lightening,lightening,1654,LIGHTNING
+335_lightweight,light weight,1052,LIGHT (WEIGHT)
+336_like,like,1117,LIKE
+337_lime,lime,982,LIME (FRUIT)
+338_lips,lips,478,LIP
+339_listenhear,"listen, hear",3862,HEAR OR LISTEN
+340_liver,liver,1224,LIVER
+341_lizard,lizard,632,LIZARD
+342_loincloth,loincloth,1965,LOINCLOTH
+343_long,long,1203,LONG
+344_loose,loose,2506,LOOSE
+345_lost,lost,3667,LOST
+346_loud,loud,377,LOUD
+347_louse,louse,1392,LOUSE
+348_lowlandplain,lowland plain,652,PLAIN
+349_make,make,734,MAKE
+350_man,man,1554,MAN
+351_mantis,mantis,3279,MANTIS
+352_many,many,1198,MANY
+353_married,married,,
+354_mat,mat,195,MAT
+355_measure,measure,1506,MEASURE
+356_meet,meet,1831,MEET
+357_millipede,millipede,,
+358_mist,mist,249,FOG
+359_mix,mix,2017,MIX
+360_molars,molars,1049,MOLAR TOOTH
+361_monitor,monitor,,
+362_monkey,monkey,1350,MONKEY
+363_moon,moon,1313,MOON
+364_morning,morning,1339,MORNING
+365_mosquito,mosquito,1509,MOSQUITO
+366_moss,moss,637,MOSS
+367_mother,mother,1216,MOTHER
+368_motherinlaw,mother in law,1050,MOTHER-IN-LAW
+369_mountain,mountain,639,MOUNTAIN
+370_mousedeer,mouse deer,,
+371_mouth,mouth,674,MOUTH
+372_mud,mud,640,MUD
+373_mushroom,mushroom,641,MUSHROOM
+374_mute,mute,1666,MUTE
+375_naked,naked,590,NAKED
+376_name,name,1405,NAME
+377_nape,nape,1347,NAPE (OF NECK)
+378_narrow,narrow,1267,NARROW
+379_navel,navel,1838,NAVEL
+380_near,near,1942,NEAR
+381_neck,neck,1333,NECK
+382_nest,nest,539,NEST
+383_new,new,1231,NEW
+384_nextto,next to,2917,NEXT TO
+385_niecenephew,niece; nephew,3890,NEPHEW OR NIECE
+386_night,night,1233,NIGHT
+387_nine,nine,1483,NINE
+388_nipple,nipple,796,NIPPLE
+389_noon,noon,12,MIDDAY
+390_nose,nose,1221,NOSE
+391_now,now,1376,NOW
+392_ocean,ocean,645,OCEAN
+393_old,old,1229,OLD
+394_oldersiblings,older siblings,405,OLDER SIBLING
+395_one,one,1493,ONE
+396_only,only,1580,ONLY
+397_ontop,on top,57,ATOP
+398_open,open,1156,OPEN
+399_or,or,1014,OR
+400_otter,otter,15,OTTER
+401_overflow,overflow,,
+402_owl,Owl,735,OWL
+403_paddle,paddle,234,PADDLE
+404_painful,painful,1129,PAINFUL
+405_palate,palate,540,PALATE
+406_palm,palm,1183,PALM OF HAND
+407_pangolin,pangolin,2508,PANGOLIN
+408_parang,parang,2680,MACHETE
+409_peaktop,peak/top,2205,PEAK
+410_peelfruit,peel fruit,,
+411_person,person,683,PERSON
+412_pinch,pinch,378,PINCH
+413_pinky,pinky,2774,LITTLE FINGER
+414_pitviper,pit viper,,
+415_placenoun,"place, noun",723,PLACE (POSITION)
+416_plant,plant,653,PLANT (VEGETATION)
+417_plate,plate,480,PLATE
+418_plateau,plateau,3988,PLATEAU
+419_pluck,pluck,2148,PICK
+420_point,point,,
+421_pond,pond,2035,POND
+422_porcupine,porcupine,2510,PORCUPINE
+423_poundrice,pound rice,3768,POUND (FOOD)
+424_pour,pour,1487,POUR
+425_pregnant,pregnant,1123,PREGNANT
+426_primaryjungle,primary jungle,,
+427_print,print,,
+428_pull,pull,1455,PULL
+429_punch,punch,,
+430_punnish,punnish,3649,PUNISH
+431_pus,pus,1808,PUS
+432_push,push,1452,PUSH
+433_putdown,put down,998,PUT
+434_python,python,1563,PYTHON
+435_quiet,quiet,1314,QUIET
+436_raft,raft,1664,RAFT
+437_rafter,rafter,829,RAFTER
+438_rain,rain,2108,RAINING OR RAIN
+439_rainbow,rainbow,1733,RAINBOW
+440_rambutan,rambutan,,
+441_rapids,rapids,1670,RAPIDS
+442_rat,rat,1490,RAT
+443_rattan,rattan,2497,RATTAN
+444_raw,raw,1959,RAW
+445_receive,receive,694,GET
+446_red,red,156,RED
+447_redleafmonkey,red leaf monkey,,
+448_remember,remember,707,REMEMBER
+449_rest,rest,168,REST
+450_return,return,581,COME BACK
+451_returnhome,return home,142,RETURN HOME
+452_rhinocerosbeetle,rhinoceros beetle,,
+453_rhinoceroshornbill,rhinoceros hornbill,,
+454_rice,rice,926,RICE
+455_ricegrain,rice grain,,
+456_ricewine,rice wine,,
+457_right,right,1019,RIGHT
+458_ripe,ripe,178,RIPE
+459_river,river,666,RIVER
+460_rivermouth,river mouth,1701,RIVER MOUTH
+461_road,road,667,ROAD
+462_roast,roast,1962,ROAST (SOMETHING)
+463_roll,roll,827,ROLL
+464_roof,roof,769,ROOF
+465_room,room,1450,ROOM
+466_roots,roots,670,ROOT
+467_rope,rope,1218,ROPE
+468_rottenasmeat,rotten as meat,1728,ROTTEN
+469_rub,rub,1449,RUB
+470_run,run,1519,RUN
+471_sad,sad,699,SAD
+472_sago,sago,2270,SAGO
+473_saliva,saliva,1503,SALIVA
+474_salty,salty,1091,SALTY
+475_samesimilar,same; similar,,
+476_sand,sand,671,SAND
+477_sandfly,sand fly,95,SANDFLY
+478_sap,sap,345,SAP
+479_sape,sape,2681,LUTE
+480_say,say,1458,SAY
+481_scabbard,scabbard,3424,SHEATH
+482_scale,scale,266,SCALE
+483_scar,scar,497,SCAR
+484_scold,scold,299,SCOLD
+485_scorpion,scorpion,1538,SCORPION
+486_scratch,scratch,1436,SCRATCH
+487_secondaryjungle,secondary jungle,,
+488_see,see,1409,SEE
+489_seed,seed,714,SEED
+490_sell,sell,1571,SELL
+491_send,send,1127,SEND
+492_seven,seven,1704,SEVEN
+493_sew,sew,1457,SEW
+494_shade,shade,1388,SHADE
+495_shadow,shadow,1388,SHADE
+496_shallow,shallow,193,SHALLOW
+497_sharp,sharp,1396,SHARP
+498_sharpen,sharpen,251,SHARPEN (SOMETHING)
+499_shield,shield,1064,SHIELD
+500_shin,shin,186,SHIN
+501_shootablowpipe,shoot a blowpipe,,
+502_short,short,1645,SHORT
+503_shoulder,shoulder,1482,SHOULDER
+504_shout,shout,715,SHOUT
+505_shrimp,shrimp,2349,SHRIMP
+506_shy,shy,487,SHY
+507_sick,sick,1847,SICK
+508_sit,sit,1416,SIT
+509_six,six,1703,SIX
+510_skin,skin,763,SKIN
+511_skinananimal,skin an animal,291,PULL OFF (SKIN)
+512_skink,skink,,
+513_skinny,skinny,1400,THIN (SLIM)
+514_skirt,skirt,1600,SKIRT
+515_sky,sky,1732,SKY
+516_slap,slap,3160,SLAP
+517_sleep,sleep,1585,SLEEP
+518_sleeptalk,sleep talk,,
+519_slice,slice,2954,SLICE
+520_slip,slip,1324,SLIP
+521_slow,slow,701,SLOW
+522_slowloris,slow loris,,
+523_small,small,1246,SMALL
+524_smellnoun,"smell, noun",3704,ODOR (SMELL)
+525_smile,smile,1451,SMILE
+526_smokenoun,smoke (noun),778,SMOKE (EXHAUST)
+527_snail,snail,1543,SNAIL
+528_snake,snake,730,SNAKE
+529_snap,snap,459,SNAP (OF STICK)
+530_sneeze,sneeze,1621,SNEEZE
+531_snore,snore,1983,SNORE
+532_snot,snot,208,NASAL MUCUS (SNOT)
+533_soft,soft,1856,SOFT
+534_songsing,song/sing,,
+535_soninlaw,son in law,1056,SON-IN-LAW
+536_sour,sour,1906,SOUR
+537_speak,speak,1623,SPEAK
+538_spicy,spicy,544,SPICY
+539_spider,spider,843,SPIDER
+540_spiderhunter,spider hunter,,
+541_spit,spit,1440,SPIT
+542_splash,splash,365,SPLASH
+543_split,split,1437,SPLIT
+544_squeeze,squeeze,1414,SQUEEZE
+545_squirrel,squirrel,1628,SQUIRREL
+546_stab,stab,1434,STAB
+547_stairs,stairs,34,STAIRS
+548_stand,stand,1442,STAND
+549_star,star,1430,STAR
+550_staylodge,stay; lodge,,
+551_steal,steal,713,STEAL
+552_sticky,sticky,3703,STICKY
+553_stomach,stomach,819,STOMACH
+554_stone,stone,857,STONE
+555_stop,stop,1928,CEASE
+556_story,story,2060,STORY
+557_straight,straight,1404,STRAIGHT
+558_strong,strong,785,STRONG
+559_stump,stump,241,TREE STUMP
+560_sugarcane,sugar cane,146,SUGAR CANE
+561_sunhat,sun hat,,
+562_sunrise,sunrise,2296,SUNRISE
+563_sunset,sunset,2295,SUNSET
+564_supernaturalstorm,supernatural storm,,
+565_surprised,surprised,1572,SURPRISED
+566_swallow,swallow,897,SWALLOW
+567_sweat,sweat,2458,PERSPIRE OR SWEAT
+568_sweep,sweep,230,SWEEP
+569_sweet,sweet,717,SWEET
+570_sweetpotato,sweet potato,159,SWEET POTATO
+571_swim,swim,1439,SWIM
+572_swollen,swollen,1573,SWELL
+573_tail,tail,1220,TAIL
+574_take,take,1749,TAKE
+575_tall,tall,711,TALL
+576_tasteless,tasteless,1771,TASTELESS
+577_tattoo,tattoo,68,TATTOO
+578_tear,tear,1651,TEAR (OF EYE)
+579_tell,tell,1711,TELL
+580_ten,ten,1515,TEN
+581_termite,termite,883,TERMITE
+582_thatnear,"that, near",78,THAT
+583_therefar,"there, far",3411,OVER THERE
+584_therenear,"there, near",1937,THERE
+585_they,they ,817,THEY
+586_thick,thick,1244,THICK
+587_thigh,thigh,471,UPPER LEG (THIGH)
+588_thin,thin,2308,THIN
+589_think,think,2271,THINK
+590_thirsty,thirsty,847,THIRSTY
+591_this,this,1214,THIS
+592_thorn,thorn,124,THORN
+593_thousand,thousand,1843,THOUSAND
+594_three,three,492,THREE
+595_throw,throw,1456,THROW
+596_thumb,thumb,1781,THUMB
+597_thunder,thunder,1150,THUNDER
+598_tie,tie,1917,TIE
+599_tired,tired,1757,TIRED
+600_toad,toad,894,TOAD
+601_toclean,to clean,2235,CLEAN (SOMETHING)
+602_today,today,1283,TODAY
+603_todry,to dry,2015,MAKE DRY
+604_tolean,to lean,3619,LEAN
+605_tolie,to lie,601,LIE (MISLEAD)
+606_tomorrow,tomorrow,1329,TOMORROW
+607_tongue,tongue,1205,TONGUE
+608_tooth,tooth,1380,TOOTH
+609_tosting,to sting,571,STING
+610_touch,touch,1892,TOUCH
+611_tourtise,tourtise,895,TORTOISE
+612_towhistle,to whistle,1025,WHISTLE
+613_towrap,to wrap,1113,WRAP
+614_tree,tree,906,TREE
+615_truecorrect,true/correct,1657,TRUE
+616_try,try,1812,TRY
+617_turn,turn,1588,TURN
+618_turtle,turtle,112,TURTLE
+619_twenty,twenty,1710,TWENTY
+620_twins,twins,1005,TWINS
+621_two,two,1498,TWO
+622_uncle,uncle,1327,UNCLE
+623_under,under,1485,BELOW OR UNDER
+624_understand,understand,1536,UNDERSTAND
+625_unripe,unripe,1958,UNRIPE
+626_unripeanddry,unripe and dry,,
+627_upriver,upriver,,
+628_urinate,urinate,592,PISS
+629_urine,urine,1142,URINE
+630_valley,valley,921,VALLEY
+631_vein,vein,1924,VEIN
+632_village,village,930,VILLAGE
+633_voice,voice,1363,VOICE
+634_vomit,vomit,1278,VOMIT
+635_waist,waist,1681,WAIST
+636_wait,wait,1590,WAIT (FOR)
+637_wakeup,wake up,1602,WAKE UP
+638_walk,walk,1443,WALK
+639_wall,wall,3830,WALL
+640_want,want,1784,WANT
+641_washclothes,wash clothes,2503,LAUNDER (WASH CLOTHES)
+642_water,water,948,WATER
+643_waterfall,waterfall,943,WATERFALL
+644_weak,weak,1601,WEAK
+645_weave,weave,133,WEAVE
+646_weplexc,we pl exc,1130,WE (EXCLUSIVE)
+647_weplincl,we pl incl,1131,WE (INCLUSIVE)
+648_westerntarsier,western tarsier,,
+649_wet,wet,1726,WET
+650_what,what,1236,WHAT
+651_when,when,1238,WHEN
+652_where,where,1237,WHERE
+653_which,which,727,WHICH
+654_whirlpool,whirlpool,1982,WHIRLPOOL
+655_white,white,1335,WHITE
+656_who,who,1235,WHO
+657_why,why,1270,WHY
+658_wide,wide,1243,WIDE
+659_widow,widow,1756,WIDOW
+660_widower,widower,1981,WIDOWER
+661_wife,wife,1199,WIFE
+662_wind,wind,960,WIND
+663_wing,wing,1257,WING
+664_wipe,wipe,1454,WIPE
+665_with,with,1340,WITH
+666_woman,woman,962,WOMAN
+667_woodpecker,wood pecker,2447,WOODPECKER
+668_worm,worm,1219,WORM
+669_wring,wring,3224,WRING
+670_yam,yam,410,YAM
+671_yawn,yawn,1028,YAWN
+672_year,year,1226,YEAR
+673_yellowbrownmonkey,yellow brown monkey,,
+674_yellowringedcatsnake,yellow ringed cat snake,,
+675_yesterday,yesterday,1174,YESTERDAY
+676_you,you,1215,THOU
+677_young,young,1207,YOUNG
+678_youngersiblings,younger siblings,427,YOUNGER SIBLING
+679_youplural,you plural,1213,YOU

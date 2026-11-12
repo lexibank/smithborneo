@@ -1,4 +1,5 @@
 from collections import defaultdict
+from itertools import count
 
 from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset 
@@ -12,6 +13,7 @@ import attr
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "smithborneo"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(
         first_form_only=True,
         replacements=[(" ?", ""), (" 11", "")],
@@ -29,66 +31,45 @@ class Dataset(BaseDataset):
         """
         Convert the raw data to a CLDF dataset.
         """
-        languages = args.writer.add_languages(
-                lookup_factory='Name')
+        languages = args.writer.add_languages(lookup_factory='Name')
         args.writer.add_sources()
         concepts = {}
-        for concept in self.concepts:
-            idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    #Concepticon_ID=concept["CONCEPTICON_ID"],
-                    #Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
-                    )
-            concepts[concept['ENGLISH']] = idx
+                ID=idx,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
 
+            concepts[concept.english] = idx
 
-        cogids = defaultdict(int)
-        current_concept = ''
-        maxcogid = 0
-        errors = set()
-        for row in progressbar(self.raw_dir.read_csv('cognates_95_229.csv', delimiter='\t',
-                dicts=True)):
-            if current_concept != row['concept']:
-                print("MAXCOGID", current_concept, row['concept'], maxcogid)
-                current_concept = row['concept']
-                                
-            if row['cogid']:
-                temp_id = row['cogid']
-                                
-            if row['Gold']:
-                temp_id = row['Gold']
-                
-            cluster_id = current_concept+"::"+temp_id
-            
-            if cluster_id in cogids:
-                cogid = cogids[cluster_id]
+        args.log.info("added concepts")
+
+        id_counter = count(1)
+        cogids = defaultdict(lambda: next(id_counter))
+
+        for row in progressbar(self.raw_dir.read_csv('cognates_95_229.csv', delimiter='\t', dicts=True)):
+            temp_id = row['Gold'] or row['cogid']
+            cluster_id = f"{row['concept']}::{temp_id}"
+            cogid = cogids[cluster_id]
+                    
+            if row["doculect"] not in languages:
+                print('Missing language: ', row['doculect'])
+            elif row["concept"] not in concepts:
+                print('Missing concept: ', row['concept'])
+
             else:
-                maxcogid += 1
-                cogids[cluster_id] = maxcogid
-                cogid = cogids[cluster_id]
-            
-            if row["doculect"] in languages and row["concept"] in concepts:
                 for lexeme in args.writer.add_forms_from_value(
-                            Language_ID=languages[row['doculect']],
-                            Parameter_ID=concepts[row['concept']],
-                            Value=row['ipa'],
-                            Source=["Smith2022"],
-                            Cognacy=cogid
-                            ):
+                    Language_ID=languages[row['doculect']],
+                    Parameter_ID=concepts[row['concept']],
+                    Value=row['ipa'],
+                    Source=["Smith2022"],
+                    Cognacy=cogid
+                    ):
                     args.writer.add_cognate(
                             lexeme=lexeme,
                             Cognateset_ID=cogid,
                             Source=["Smith2022"]
                             )
-            else:
-                if row["doculect"] not in languages:
-                    errors.add("language "+row["doculect"])
-                if row["concept"] not in concepts:
-                    errors.add("concept " + row["concept"])
-        for error in sorted(errors):
-            print(error)
-                
-            
-

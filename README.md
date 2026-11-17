@@ -31,12 +31,11 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/smithborneo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/smithborneo/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 99%](etc/badge_languages.svg)
-![Concepticon: 91%](etc/badge_concepts.svg)
-![Source: 100%](etc/badge_sources.svg)
-![BIPA: 79%](etc/badge_bipa.svg)
-![CLTS SoundClass: 79%](etc/badge_sc.svg)
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 95 (linked to 93 different Glottocodes)
 - **Concepts:** 679 (linked to 609 different Concepticon concept sets)
@@ -46,14 +45,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Cognacy:** 50,997 cognates in 8,971 cognate sets (4,026 singletons)
 - **Cognate Diversity:** 0.16
 - **Invalid lexemes:** 0
-- **Tokens:** 276,390
-- **Segments:** 178 (38 BIPA errors, 38 CLTS sound class errors, 139 CLTS modified)
-- **Inventory size (avg):** 35.74
-
-## Possible Improvements:
-
-- Languages missing glottocodes: 1/95 (1.05%%)
-
+- **Tokens:** 276,080
+- **Segments:** 158 (0 BIPA errors, 0 CLTS sound class errors, 158 CLTS modified)
+- **Inventory size (avg):** 34.26
 
 # Contributors
 

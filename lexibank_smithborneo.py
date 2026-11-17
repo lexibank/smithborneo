@@ -16,7 +16,7 @@ class Dataset(BaseDataset):
     writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(
         first_form_only=True,
-        replacements=[(" ?", ""), (" 11", "")],
+        replacements=[(" ?", ""), (" 11", ""), ("ö̯"[1], "")],
         missing_data=("NA", "---", "-")
     )
 

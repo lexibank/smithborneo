@@ -136,23 +136,13 @@ A$	NULL	NA	Kapuas	1	U+0041 U+0024
 a̩$	a	puʔutn kayuh nua̩	Sungkung	1	U+0061 U+0329 U+0024
 aa	aː	daaʔ, raaʔ	Kiput, Lingkabau, Timugon_Murut, Penan_Jekitan, Kejaman, SBisaya, Tatana, Kadorih, Lobu_Lanas, Lahanan, Vo, Penan_Beku, BrDusun, Tau, LBisaya, Dumpas, Kendayan_2, Sekapan, Gah, Lun-Dayeh, Tidung_Sumbol, Badeng, Dalat_Melanau, Pawe, Bekati, Laang, Ngorek, Ribun, Hovongan, Bonggi, Tawoyan, Golik, Seguliud, Seberuang, Benyadu, Pangkodan_Sanggau, Bahau_Saq, Hliboi_Bidayuh, Sawa	100	U+0061 U+0061
 aa$	aː	baa, taa	Kadazan_Kimanis, Bonggi, Punan_Bah, Sekapan, Laang, Lahanan, Vo, Lingkabau, Timugon_Murut, Lun-Dayeh, Penan_Mubui, Burusu, Aoheng, Ngorek, Penan_Beku, Kejaman, Gah, Hovongan, Sebop_old_, Seputan, Bulungan, Kereho, Buket, Punan_Aput, Pawe, Sawa	38	U+0061 U+0061 U+0024
-aᵇ	a	beaᵇm	Tawoyan	1	U+0061 U+1d47
-aᵈ	a	kawaᵈn, koaᵈn kəʤo	Modang_woeg_helag, Dusun, Tawoyan	5	U+0061 U+1d48
 æ	æ	ʤəlælæn, rumæh	Upper_Kapuas_Iban, Kelai, Berawan_jeegan_	55	U+00e6
 æ̯	æ̯	lakiæ̯ʔ	Berawan_jeegan_	1	U+00e6 U+032f
 æː	æː	l̩næːʔ, pæːt	Kelai, Upper_Kapuas_Iban	25	U+00e6 U+02d0
 æ$	æ	piæ, n͂otiæ	Berawan_jeegan_	2	U+00e6 U+0024
 æ̯$	æ̯	cin͂iæ̯, ʤiʔiæ̯	Berawan_jeegan_	4	U+00e6 U+032f U+0024
-aᵍ	a	tulaᵍŋ, paᵍŋ gok	Modang_woeg_helag, Tawoyan, Dusun, Maanyan	13	U+0061 U+1d4d
-áᵍ	á	nəbáᵍŋ	Mualang	1	U+00e1 U+1d4d
-aʰ	a	kaʰtin, maʰcuʔ	Kadorih	14	U+0061 U+02b0
-aᵏ	a	biaᵏŋ, məruaᵏŋ	Benuaq, Tunjung, Maanyan, Dusun, Mualang	18	U+0061 U+1d4f
-ãⁿ	ã	amãⁿt	Mualang	1	U+00e3 U+207f
-ãᵑ	ã	ləmãᵑk, anãᵑk	Mualang	2	U+00e3 U+1d51
-aᵖ	a	karaᵖm, ahaᵖm	Benuaq, Tunjung, Dusun	7	U+0061 U+1d56
-aᵗ	a	səlaᵗn, ulaᵗn	Tunjung, Benuaq	13	U+0061 U+1d57
-aᵗˀ	a	ñugaᵗˀn	Golik	1	U+0061 U+1d57 U+02c0
-aˣ	a	palaˣkŋ dawɨʔ amin, balaˣk	Sungkung	2	U+0061 U+02e3
+ᵗn	tⁿ	səlaᵗn, ulaᵗn	Tunjung, Benuaq	13	U+0061 U+1d57
+ᵗˀn	tⁿ	ñugaᵗˀn	Golik	1	U+0061 U+1d57 U+02c0
 ɑ	ɑ	landɑʔ, boŋkɑʔ	Pangkodan_Sanggau, Punan_Lisum	5	U+0251
 ɑː	ɑː	anɑːy, tɑːy	Gaai	2	U+0251 U+02d0
 ɑː$	ɑː	koɣɑː, sɔwɑː	Pangkodan_Sanggau	2	U+0251 U+02d0 U+0024
@@ -160,8 +150,6 @@ aˣ	a	palaˣkŋ dawɨʔ amin, balaˣk	Sungkung	2	U+0061 U+02e3
 ɒ	ɒ	ʤɒŋ blɒm, ʤɒʔ	Gaai, Kelai, Modang_woeg_helag	39	U+0252
 ɒː	ɒː	plɒːy	Gaai	1	U+0252 U+02d0
 ɒ̯$	ɒ̯	mpaːɒ̯	Mpraa	1	U+0252 U+032f U+0024
-ɒᵈ	ɒ	kəsɒᵈn, nəkɒᵈn	Modang_woeg_helag	2	U+0252 U+1d48
-ɒᵍ	ɒ	məndɒᵍŋ	Modang_woeg_helag	1	U+0252 U+1d4d
 b	b	abu, abuh	Mualang, Bakumpai, Pangkodan_Sanggau, Kapuas, Bekati, Kendayan_2, Keninjal, Ribun, Golik, Seberuang, Kanowit, Ketapang, Kelai, Lotud, Lahanan, Berawan_Terawan_, Sungkung, Kejaman, Bonggi, Upper_Kapuas_Iban, SBisaya, Paser, Tidung_Sumbol, Seguliud, Tatana, BrDusun, Dalat_Melanau, LBisaya, Narum, Kelabit, Modang_woeg_helag, Gaai, Dusun, Kiput, Lobu_Lanas, Sekapan, Kadazan_Kimanis, Benuaq, Ngorek, Mpraa, Lingkabau, Long_Gelat, Lun-Dayeh, Idaan, Apo_Kayan_Kayan, Maanyan, Jangkang, Bulungan, Miri, Tunjung, Kadorih, Basap_Lebo_, Baram_Kayan, Ngaju, Hliboi_Bidayuh, Sawa	100	U+0062
 b$	b	ilob, kaŋkab	Lotud, Kadazan_Kimanis, Seguliud, Rungus, Dumpas, Lobu_Lanas, Lingkabau, Bonggi, Idaan, Tidung_Sumbol, Tatana, LBisaya, Kelabit, Gaai, Burusu, Sungkung, Timugon_Murut, Lun-Dayeh, SBisaya, Papar, BrDusun, Dalat_Melanau, Begak, Hliboi_Bidayuh	41	U+0062 U+0024
 bb	bː	bakas bban, bəbbaw	Sekapan, Idaan	2	U+0062 U+0062
@@ -174,7 +162,6 @@ cc	cː	daccih, pəccaiʔ	Kiput, Sekapan	2	U+0063 U+0063
 d	d	mudip, padəŋ	Bonggi, Begak, Modang_woeg_helag, Dusun, Sungkung, Idaan, Penan_Jekitan, Ketapang, Benyadu, Kelai, Burusu, Kadazan_Kimanis, Lingkabau, Lun-Dayeh, Long_Gelat, SBisaya, Paser, Tidung_Sumbol, Golik, Maanyan, Seguliud, Dalat_Melanau, Bulungan, Kanowit, Ngaju, Dumpas, Sawa, Kapuas, Bekati, Gaai, Penan_Mubui, Lobu_Lanas, Kendayan_2, Sekapan, Keninjal, Laang, Berawan_jeegan_, Berawan_Terawan_, Pawe, Benuaq, Hliboi_Bidayuh, Penan_Beku, Kejaman, Gah, Ribun, Mualang, Upper_Kapuas_Iban, Badeng, Tatana, Sebop_old_, BrDusun, Jangkang, Tau, Seberuang, Bakumpai, Kadorih, Pangkodan_Sanggau, LBisaya, Rungus, Kiput, Narum	100	U+0064
 d$	d	pusod, palad	Burusu, Papar, Kelabit, SBisaya, Lingkabau, Lun-Dayeh, Tidung_Sumbol, Tatana, Dumpas, Lotud, Lobu_Lanas, Bonggi, Idaan, BrDusun, Dalat_Melanau, Begak, LBisaya, Rungus, Kadazan_Kimanis, Seguliud, Hliboi_Bidayuh, Miri, Bulungan	100	U+0064 U+0024
 dⁿ$	d	tɨʔɨdⁿ, aludⁿ	Sungkung	4	U+0064 U+207f U+0024
-ds	ds	monudsul, modsuʔ	Rungus	2	U+0064 U+0073
 ʤ	dʒ	ŋaʤən, kiʤaŋ	Lahanan, Tunjung, Gaai, Modang_woeg_helag, Kelai, Berawan_jeegan_, Berawan_Terawan_, Ngaju, Long_Gelat, BrDusun, Bakumpai, Kapuas, Ukit, Penan_Mubui, Lotud, Sekapan, Hovongan, Upper_Kapuas_Iban, SBisaya, Seguliud, Sebop_old_, Jangkang, Bulungan, Begak, Kereho, Ketapang, Benyadu, Bekati, Dusun, Keninjal, Laang, Sungkung, Penan_Beku, Kejaman, Gah, Mualang, Punan_Lisum, Idaan, Apo_Kayan_Kayan, Tawoyan, Golik, Seputan, Badeng, Miri, Tau, Penan_Jekitan, Seberuang, Pangkodan_Sanggau, Kanowit, Basap_Lebo_, LBisaya, Sawa	100	U+02a4
 ʤʤ	dʒː	məʤʤat	Sekapan	1	U+02a4 U+02a4
 ɗ	ɗ	ləɗo, məɗuʔ	Vo, Pawe	6	U+0257
@@ -203,12 +190,6 @@ ee$	eː	mee, dee	Vo, Gah, Sekapan, Laang, Pawe, Sawa	6	U+0065 U+0065 U+0024
 eᵍ	e	paʔ uweᵍŋ, neveᵍŋ	Maanyan, Modang_woeg_helag	3	U+0065 U+1d4d
 éh	e h	téhḛ́ʔ	Bekati	1	U+00e9 U+0068
 és$	e s	ŋétés	Benyadu	1	U+00e9 U+0073 U+0024
-eᵗ	e	ateᵗn, boteᵗn	Benuaq, Dusun, Tunjung	4	U+0065 U+1d57
-eʸ	e	uɣeʸʔ, leʸnaw	Kelai, Bekati, Mpraa, Dalat_Melanau, Sekapan	6	U+0065 U+02b8
-éʸː$	eː	ncicéʸː	Pangkodan_Sanggau	1	U+00e9 U+02b8 U+02d0 U+0024
-eʸ$	e	ñaŋkeʸ	Bekati	1	U+0065 U+02b8 U+0024
-éʸ$	é	aɣéʸ, padéʸ	Bekati	7	U+00e9 U+02b8 U+0024
-ḛ́ʸ$	ḛ ʔ	sadḛ́ʸ, antḛ́ʸ	Bekati	3	U+1e1b U+0301 U+02b8 U+0024
 ə	ə	avəw, akəwʔ	Long_Gelat, Dalat_Melanau, Benuaq, Modang_woeg_helag, Kejaman, Penan_Jekitan, Ketapang, Ukit, Penan_Mubui, Sekapan, Lahanan, Penan_Beku, Bakumpai, Tunjung, Kelai, Berawan_Terawan_, Berawan_jeegan_, Ngorek, Mualang, Upper_Kapuas_Iban, Lun-Dayeh, Idaan, Tawoyan, Begak, Pangkodan_Sanggau, Kanowit, Basap_Lebo_, Buket, Busang, Kapuas, Gaai, Kiput, Keninjal, Vo, Pawe, Sungkung, Golik, Badeng, Sebop_old_, Maanyan, BrDusun, Tau, Seberuang, Benyadu, Hliboi_Bidayuh	100	U+0259
 ə̃	ə̃	mblə̃wə̯̃	Mpraa	1	U+0259 U+0303
 ə̯	ə̯	puə̯t, wahguə̯ŋ	Upper_Kapuas_Iban, Kejaman, Mpraa, Narum, Gaai, Long_Gelat, Kelai, Hliboi_Bidayuh, Punan_Bah, Mualang, Modang_woeg_helag, Apo_Kayan_Kayan, Seberuang, Sekapan, Ribun, Kanowit, Dusun, Sungkung, Pangkodan_Sanggau	100	U+0259 U+032f
@@ -218,25 +199,18 @@ eʸ$	e	ñaŋkeʸ	Bekati	1	U+0065 U+02b8 U+0024
 ə̯$	ə̯	ləbiə̯, tawə̯	Mpraa, Long_Gelat, Modang_woeg_helag, Sekapan, Kiput	57	U+0259 U+032f U+0024
 ə̯̈$	ə̯̈	wətaə̯̈, əlaə̯̈	Modang_woeg_helag	8	U+0259 U+032f U+0308 U+0024
 ə̯̃$	ə̯̃	ŋəhŋãə̯̃, mblə̃wə̯̃	Mpraa	18	U+0259 U+032f U+0303 U+0024
-əᵇ	ə	maləᵇm, kuyəᵇm	Tawoyan	2	U+0259 U+1d47
-ə̯ᵈ	ə̯	weə̯ᵈn, ŋəleə̯ᵈn	Modang_woeg_helag	4	U+0259 U+032f U+1d48
 əə	əː	dəəʔ	Penan_Beku	1	U+0259 U+0259
-əᵍ	ə	guəᵍŋ baᵍŋ, oləᵍŋ	Tawoyan, Modang_woeg_helag	4	U+0259 U+1d4d
-əᵏ	ə	ŋasəᵏŋ, dawəᵏŋ	Benuaq, Tunjung	4	U+0259 U+1d4f
-ə̯̃ⁿ	ə̯̃	lumõə̯̃ⁿt	Mualang	1	U+0259 U+032f U+0303 U+207f
-əᵖ	ə	metəᵖm, əŋkaləᵖm	Benuaq, Tunjung	3	U+0259 U+1d56
-əᵗ	ə	hagəᵗn, təluyəᵗn	Tunjung, Benuaq	4	U+0259 U+1d57
 ɛ	ɛ	pɛʔɛm, manɛʔ	Mualang, Kereho, Ketapang, Pangkodan_Sanggau, Kelai, Hovongan, Upper_Kapuas_Iban, Jangkang, Berawan_jeegan_, Ribun, Long_Gelat, Punan_Aput, Sungkung, Golik, Keninjal, Punan_Lisum, Punan_Tuvu, Seberuang, Hliboi_Bidayuh, Bekati, Kendayan_2, Mpraa, Bulungan, Benyadu, Narum	100	U+025b
 ɛ́	ɛ	tolɛsɛ́ŋ, ŋohɛ́ŋat	Kereho	2	U+025b U+0301
 ɛ̯	ɛ̯	moiɛ̯ʔ, hləwñəwʔ siɛ̯t	Ribun, Upper_Kapuas_Iban, Hliboi_Bidayuh	3	U+025b U+032f
 ɛ̰	ɛ̰	ŋutɛ̰ʔ	Golik	1	U+025b U+0330
 ɛː	ɛː	hɛːəʔ, talɛːʔ	Mpraa, Ribun, Apo_Kayan_Kayan, Kelai, Pangkodan_Sanggau	7	U+025b U+02d0
-ɛːʸ	ɛːi	lɛːʸə̯	Mpraa	1	U+025b U+02d0 U+02b8
+ɛːʸ	ɛː j	lɛːʸə̯	Mpraa	1	U+025b U+02d0 U+02b8
 ɛ$	ɛ	potɛ, muntɛ	Berawan_jeegan_, Ribun, Kereho, Hovongan	6	U+025b U+0024
 ɛ̯$	ɛ̯	loɛ̯	Mpraa	1	U+025b U+032f U+0024
-ɛᵈ	ɛ	hətɛᵈn, əmpɛᵈn	Modang_woeg_helag	2	U+025b U+1d48
-ɛ̃ⁿ	ɛ̃	ʤaɣi mɛ̃ⁿt	Mualang	1	U+025b U+0303 U+207f
-ɛˣ	ɛ	midɛˣk	Sungkung	1	U+025b U+02e3
+ᵈn	dⁿ	hətɛᵈn, əmpɛᵈn	Modang_woeg_helag	2	U+025b U+1d48
+ⁿt	tⁿ	ʤaɣi mɛ̃ⁿt	Mualang	1	U+025b U+0303 U+207f
+ɛ	ɛ	midɛˣk	Sungkung	1	U+025b U+02e3
 ɘ	ɘ	ipɘʔ, kɘhɘʔ	Golik, Punan_Lisum, Buket	28	U+0258
 ɘ$	ɘ	limɘ, kəripɘ	Punan_Lisum	4	U+0258 U+0024
 ɤ	ɤ	kɤbɘs, bɤtɘh	Golik	4	U+0264
@@ -244,6 +218,8 @@ f	f	afoːʔ, təfuh	Punan_Tuvu, Apo_Kayan_Kayan, Bonggi, Bahau_Saq, Kadazan_Kima
 g	g	dagu, tage	SBisaya, Modang_woeg_helag, Lotud, Golik, Kelai, Keninjal, Timugon_Murut, Tidung_Sumbol, Tatana, Tunjung, Rungus, Ketapang, Gaai, Ukit, Kejaman, Ribun, Bonggi, Upper_Kapuas_Iban, Punan_Lisum, Long_Gelat, Idaan, Seguliud, BrDusun, Jangkang, Dalat_Melanau, Penan_Jekitan, Begak, Dumpas, Kapuas, Dusun, Penan_Mubui, Lobu_Lanas, Punan_Bah, Kendayan_2, Sekapan, Burusu, Berawan_Terawan_, Kadazan_Kimanis, Benuaq, Vo, Mpraa, Lingkabau, Mualang, Lun-Dayeh, Paser, Tawoyan, Papar, Bulungan, Bakumpai, Seberuang, Pangkodan_Sanggau, LBisaya, Basap_Lebo_, Punan_Aput, Buket	100	U+0067
 g$	g	munung, sarog	Rungus, Seguliud, Dumpas, Kadazan_Kimanis, Idaan, Lingkabau, Tatana, Begak, Lobu_Lanas, Bonggi, Burusu, Papar, Tidung_Sumbol, Sungkung, Timugon_Murut, Bulungan, Bakumpai, Hliboi_Bidayuh, Dalat_Melanau, Ngaju	100	U+0067 U+0024
 gg	gː	lingguang, onggiliwang	Timugon_Murut, Tidung_Sumbol, Papar, Lingkabau, Lobu_Lanas, Dumpas, Kadazan_Kimanis, Tatana, Rungus, Sekapan	18	U+0067 U+0067
+ng	ŋ
+ngg	ŋ g
 gw	g w	təʔagwah, bagwaŋ	Kejaman, Sekapan, Lahanan	7	U+0067 U+0077
 ɠ	ɠ	pəɠən	Vo	1	U+0260
 ɣ	ɣ	daɣah, kaɣam	Pangkodan_Sanggau, Bekati, Jangkang, Keninjal, Seberuang, Mualang, Dalat_Melanau, Narum, Ribun	100	U+0263
@@ -273,14 +249,15 @@ i̯$	i̯	babɪi̯, pəkawɪi̯	Upper_Kapuas_Iban, Dalat_Melanau	8	U+0069 U+032f 
 i̩$	i	bui̩, ai̩	Jangkang, Sungkung	3	U+0069 U+0329 U+0024
 ^ai̩	ai
 ^ui̩	ui
-iᵇ	i	pəkiriᵇm	Tawoyan	1	U+0069 U+1d47
-iᵈ	i	kətiᵈn, lahʤiᵈn	Modang_woeg_helag	2	U+0069 U+1d48
-iᵍ	i	toiᵍŋ	Tawoyan	1	U+0069 U+1d4d
-iʰ	i	siʰku, kiʰtaʔ	Kadorih	3	U+0069 U+02b0
+ᵇm	bⁿ	pəkiriᵇm	Tawoyan	1	U+0069 U+1d47
+ᵈn	dⁿ	kətiᵈn, lahʤiᵈn	Modang_woeg_helag	2	U+0069 U+1d48
+ᵍŋ	gⁿ	toiᵍŋ	Tawoyan	1	U+0069 U+1d4d
+ʰt	ʰt	siʰku, kiʰtaʔ	Kadorih	3	U+0069 U+02b0
+ʰk	ʰk
 ii	iː	miit, liin	Bonggi, Hovongan, Dalat_Melanau, Hliboi_Bidayuh, Penan_Jekitan, Tidung_Sumbol, Penan_Beku, Lun-Dayeh	13	U+0069 U+0069
 ii$	iː	əndii, dii	Penan_Beku, Lingkabau, Lobu_Lanas, Timugon_Murut, Punan_Bah, Upper_Kapuas_Iban	6	U+0069 U+0069 U+0024
-iᵏ	i	kəliŋkiᵏŋ, diriᵏŋ	Tunjung, Benuaq, Maanyan	6	U+0069 U+1d4f
-iᵗ	i	gariᵗn, rahiᵗn dilaw	Tunjung, Benuaq	5	U+0069 U+1d57
+ᵏŋ	kⁿ	kəliŋkiᵏŋ, diriᵏŋ	Tunjung, Benuaq, Maanyan	6	U+0069 U+1d4f
+ᵗn	tⁿ	gariᵗn, rahiᵗn dilaw	Tunjung, Benuaq	5	U+0069 U+1d57
 ɪ	ɪ	sumpɪt, rakɪt	Sungkung, Kelai, Upper_Kapuas_Iban, Hliboi_Bidayuh, Kendayan_2, Modang_woeg_helag, Bekati, Dalat_Melanau, Apo_Kayan_Kayan, Berawan_jeegan_, Keninjal, Mpraa, Ribun, Punan_Bah, Sekapan, Benuaq, Punan_Lisum, Lun-Dayeh, Seputan, Seberuang, Buket, Ngaju, Benyadu, Narum	67	U+026a
 ɪ̯	ɪ̯	müɪ̯n, nənüɪ̯n	Long_Gelat	12	U+026a U+032f
 ɪ$	ɪ	kapɪ, atɪ	Seputan, Kereho	5	U+026a U+0024
@@ -289,31 +266,29 @@ iᵗ	i	gariᵗn, rahiᵗn dilaw	Tunjung, Benuaq	5	U+0069 U+1d57
 ɨ̯	ɨ̯	ahtɪɨ̯k, bisɪɨ̯ʔ	Sungkung	4	U+0268 U+032f
 ɨː	ɨː	baʔ udɨːs, bɨːʔ	Sungkung	2	U+0268 U+02d0
 ɨ$	ɨ	matɨ, məkɨ	Vo, Penan_Beku, Buket, Sungkung, Penan_Jekitan	35	U+0268 U+0024
-ɨˣ	ɨ	ntapɨˣk, mɨˣkabɨs	Sungkung	4	U+0268 U+02e3
 j	j	majuʔ, agajoʔ	Kadazan_Kimanis, Tidung_Sumbol, Tatana, Papar	16	U+006a
 ɟ	ɟ	taɟow	Hliboi_Bidayuh	1	U+025f
 ʄ	ʄ	muʄu, tuʄək	Vo	7	U+0284
 k	k	takut, aku	Dusun, Ngaju, Kapuas, Bekati, Kendayan_2, Laang, Berawan_Terawan_, Sawa, Vo, Pawe, Sungkung, Ngorek, Gah, Ribun, Mualang, Upper_Kapuas_Iban, Idaan, SBisaya, Apo_Kayan_Kayan, Paser, Badeng, Seguliud, Maanyan, Bulungan, Tau, Seberuang, Bakumpai, Kadorih, Begak, LBisaya, Basap_Lebo_, Ketapang, Baram_Kayan, Benyadu, Modang_woeg_helag, Gaai, Ukit, Kelai, Penan_Mubui, Lotud, Sekapan, Keninjal, Lahanan, Benuaq, Penan_Beku, Kejaman, Mpraa, Timugon_Murut, Long_Gelat, Golik, Tawoyan, Tatana, BrDusun, Jangkang, Miri, Penan_Jekitan, Tunjung, Kanowit, Kereho, Punan_Aput, Busang, Hliboi_Bidayuh, Bahau_Saq	100	U+006b
-ᵏ	k				
 k$	k	lunuk, layok	Kapuas, Penan_Beku, Laang, Golik, Sebop_old_, Penan_Jekitan, Bakumpai, Bahau_Saq, Busang, Sawa, Ukit, Modang_woeg_helag, Gaai, Kelai, Benuaq, Vo, Pawe, Sungkung, Gah, Punan_Lisum, Apo_Kayan_Kayan, BrDusun, Kadorih, LBisaya, Kanowit, Baram_Kayan, Punan_Aput, Buket, Ngaju, Benyadu, Hliboi_Bidayuh, Bekati, Dusun, Lotud, Penan_Mubui, Burusu, Keninjal, Lahanan, Ngorek, Kejaman, Ribun, Bonggi, Long_Gelat, SBisaya, Paser, Seguliud, Tawoyan, Maanyan, Badeng, Jangkang, Dalat_Melanau, Punan_Tuvu, Tau, Tunjung, Basap_Lebo_, Ketapang	100	U+006b U+0024
 kʰ$	k	potikʰ, sisikʰ	Golik	2	U+006b U+02b0 U+0024
-kk	kː	səkkot, səkko	Berawan_Terawan_, Idaan, Begak, Seguliud, Berawan_jeegan_, Miri, Gaai, Tawoyan, Jangkang	19	U+006b U+006b
+kk	k k	səkkot, səkko	Berawan_Terawan_, Idaan, Begak, Seguliud, Berawan_jeegan_, Miri, Gaai, Tawoyan, Jangkang	19	U+006b U+006b
 ks	k s	məñəleksiʔ	Kapuas	1	U+006b U+0073
 kʷ$	kʷ	itowkʷ, takawkʷ	Mpraa, Hliboi_Bidayuh	7	U+006b U+02b7 U+0024
-kˀ	k	ɔŋkikˀŋ, ŋasɘkˀŋ	Golik	10	U+006b U+02c0
+kˀŋ	kⁿ	ɔŋkikˀŋ, ŋasɘkˀŋ	Golik	10	U+006b U+02c0
 l	l	salaʔ, salah	Dusun, Ukit, Kelai, Burusu, Sungkung, Lun-Dayeh, Tawoyan, Ketapang, Buket, Kapuas, Gaai, Punan_Bah, Kendayan_2, Sekapan, Keninjal, Berawan_jeegan_, Benuaq, Timugon_Murut, Long_Gelat, Paser, Maanyan, Jangkang, Seberuang, Bakumpai, Tunjung, Kereho, Basap_Lebo_, Ngaju, Punan_Aput, Hliboi_Bidayuh, Kelabit, Modang_woeg_helag, Bekati, Lobu_Lanas, Berawan_Terawan_, Lahanan, Sawa, Penan_Beku, Kejaman, Mpraa, Ribun, Mualang, Hovongan, Bonggi, Upper_Kapuas_Iban, Apo_Kayan_Kayan, Tidung_Sumbol, Sebop_old_, Tatana, Dalat_Melanau, Bulungan, Miri, Tau, Penan_Jekitan, Pangkodan_Sanggau, Kanowit, Benyadu, Busang, Bahau_Saq	100	U+006c
 l$	l	tumpul, gatal	Kelai, Gaai, Burusu, Lun-Dayeh, Ketapang, Kelabit, Lobu_Lanas, Timugon_Murut, Bonggi, Idaan, SBisaya, Tidung_Sumbol, Seguliud, Bulungan, Kapuas, Kendayan_2, Lingkabau, Mualang, Upper_Kapuas_Iban, Paser, Tatana, Maanyan, Miri, Seberuang, Bakumpai, Begak, Pangkodan_Sanggau, LBisaya, Rungus, Ngaju, Dumpas, Busang, Narum, Bahau_Saq, Dusun, Lotud, Berawan_Terawan_, Keninjal, Golik, Papar, Jangkang, Dalat_Melanau, Kanowit, Basap_Lebo_, Benyadu, Hliboi_Bidayuh	100	U+006c U+0024
 lh	l h	alhuy, məlhiə̯ŋ	Gaai, Kelai	3	U+006c U+0068
-ll	lː	tullaŋ, təllu	Begak, Seguliud, Idaan	19	U+006c U+006c
+ll	l l	tullaŋ, təllu	Begak, Seguliud, Idaan	19	U+006c U+006c
 ls	l s	kəlsay	Kelai	1	U+006c U+0073
 lw	l w	lilwas, alwas	Gaai, Kelai	2	U+006c U+0077
 ɭ	ɭ	moɭi, kuɭi	Punan_Lisum, Punan_Aput	20	U+026d
-ɮ	ɮ	təɮəw, təɮu	Lahanan, Kejaman, Sekapan	82	U+026e
+ɮ	lˠ	təɮəw, təɮu	Lahanan, Kejaman, Sekapan	82	U+026e
 m	m	umur, umun	LBisaya, Sekapan, Burusu, Benuaq, SBisaya, Ketapang, Benyadu, Gaai, Bekati, Ukit, Dusun, Lotud, Lobu_Lanas, Lahanan, Kadazan_Kimanis, Kejaman, Lingkabau, Ribun, Tawoyan, Maanyan, BrDusun, Jangkang, Tunjung, Kadorih, Pangkodan_Sanggau, Kanowit, Basap_Lebo_, Rungus, Ngaju, Buket, Modang_woeg_helag, Punan_Bah, Kendayan_2, Keninjal, Laang, Sawa, Aoheng, Pawe, Mpraa, Mualang, Hovongan, Bonggi, Upper_Kapuas_Iban, Idaan, Apo_Kayan_Kayan, Paser, Tidung_Sumbol, Badeng, Papar, Golik, Tatana, Seguliud, Dalat_Melanau, Punan_Tuvu, Tau, Seberuang, Bakumpai, Kereho, Dumpas, Busang, Kiput, Bahau_Saq	100	U+006d
 m$	m	nanəm, itom	Punan_Bah, Upper_Kapuas_Iban, Long_Gelat, Ketapang, Kapuas, Modang_woeg_helag, Kelai, Dusun, Berawan_Terawan_, Benuaq, Ngorek, Penan_Beku, Mpraa, Timugon_Murut, Tawoyan, Papar, Maanyan, Bulungan, Bakumpai, Kadorih, Kanowit, Basap_Lebo_, Baram_Kayan, Ngaju, Punan_Aput, Kelabit, Gaai, Ukit, Lotud, Lobu_Lanas, Kendayan_2, Sekapan, Burusu, Berawan_jeegan_, Lahanan, Aoheng, Kadazan_Kimanis, Kejaman, Lingkabau, Mualang, Hovongan, Bonggi, Punan_Lisum, Lun-Dayeh, Idaan, SBisaya, Apo_Kayan_Kayan, Paser, Tidung_Sumbol, Seputan, Seguliud, Tatana, BrDusun, Jangkang, Dalat_Melanau, Miri, Punan_Tuvu, Penan_Jekitan, Seberuang, Tunjung, Kereho, LBisaya, Begak, Rungus, Dumpas, Benyadu, Busang, Kiput, Narum, Bahau_Saq	100	U+006d U+0024
-mᵇ	mb	nəmᵇəŋ, lumᵇayʔ	Berawan_Terawan_, Narum, Maanyan, Berawan_jeegan_, Hliboi_Bidayuh	7	U+006d U+1d47
+mᵇ	bⁿ	nəmᵇəŋ, lumᵇayʔ	Berawan_Terawan_, Narum, Maanyan, Berawan_jeegan_, Hliboi_Bidayuh	7	U+006d U+1d47
 mh	m h	səmho͂ŋ, pumha̰ː	Long_Gelat, Modang_woeg_helag, Bekati	3	U+006d U+0068
-mm	mː	ammis, kəmman	Begak, Seguliud, Sekapan, Idaan, Kejaman, Lotud	10	U+006d U+006d
+mm	m m	ammis, kəmman	Begak, Seguliud, Sekapan, Idaan, Kejaman, Lotud	10	U+006d U+006d
 mʸ	m	dimʸe	Berawan_jeegan_	1	U+006d U+02b8
 n	n	inay, inon okan	Dusun, Benuaq, Bulungan, Bekati, Burusu, Aoheng, Paser, Golik, Bakumpai, Kereho, Kapuas, Sekapan, Lahanan, Ngorek, Ribun, Mualang, Punan_Lisum, Lun-Dayeh, Idaan, SBisaya, Apo_Kayan_Kayan, Tidung_Sumbol, Seguliud, Seputan, BrDusun, Tunjung, LBisaya, Begak, Basap_Lebo_, Ngaju, Busang, Penan_Mubui, Lobu_Lanas, Kadazan_Kimanis, Kejaman, Mpraa, Lingkabau, Timugon_Murut, Hovongan, Upper_Kapuas_Iban, Sebop_old_, Tawoyan, Maanyan, Tatana, Jangkang, Papar, Dalat_Melanau, Kadorih, Rungus, Ketapang, Punan_Aput, Dumpas, Benyadu, Kiput, Narum, Bahau_Saq	100	U+006e
 n͂	ɲ	ŋun͂ah, bun͂u	Seberuang, Keninjal, Kendayan_2, Punan_Aput, Punan_Tuvu, Modang_woeg_helag, Ketapang, Narum, Tunjung, Berawan_jeegan_, Burusu, Miri	39	U+006e U+0342
@@ -323,7 +298,7 @@ nː	nː	pənːan, pənːəwk	Modang_woeg_helag	2	U+006e U+02d0
 n$	n	ŋan, dan	Lun-Dayeh, Kendayan_2, Benyadu, Ketapang, Kapuas, Kelabit, Kelai, Punan_Bah, Sekapan, Laang, Lahanan, Berawan_Terawan_, Keninjal, Kejaman, Idaan, Apo_Kayan_Kayan, Seguliud, Punan_Tuvu, Bakumpai, Seberuang, Tunjung, Begak, Kereho, Kiput, Sawa, Modang_woeg_helag, Gaai, Dusun, Penan_Mubui, Lobu_Lanas, Burusu, Berawan_jeegan_, Aoheng, Vo, Sungkung, Ngorek, Penan_Beku, Mpraa, Gah, Lingkabau, Ribun, Timugon_Murut, Mualang, Bonggi, Upper_Kapuas_Iban, Long_Gelat, SBisaya, Golik, Sebop_old_, Badeng, Seputan, Papar, BrDusun, Maanyan, Jangkang, Bulungan, Miri, Tau, Penan_Jekitan, Kadorih, Pangkodan_Sanggau, Basap_Lebo_, LBisaya, Bahau_Saq, Buket, Dumpas, Pawe, Busang, Narum	100	U+006e U+0024
 n͂$	ɲ	kærayn͂, ʤicəyn͂	Berawan_jeegan_, Modang_woeg_helag	9	U+006e U+0342 U+0024
 ñ$	ɲ	tənhayñ, mpayñ	Long_Gelat, Mpraa	11	U+00f1 U+0024
-nᵈ	nd	runᵈruy	Maanyan	1	U+006e U+1d48
+nᵈ	dⁿ	runᵈruy	Maanyan	1	U+006e U+1d48
 nh	n h	tənhayñ, mənhayñ	Long_Gelat, Modang_woeg_helag	4	U+006e U+0068
 nn	nː	mənnik, kinnan	Seguliud, Long_Gelat, Idaan, Begak, Berawan_jeegan_	9	U+006e U+006e
 ns	n s	onsung, punsi	Benyadu, Ketapang, Bekati, Tidung_Sumbol, Bonggi, Dumpas, Dusun, Tawoyan, Basap_Lebo_, Maanyan, Lotud, Rungus, Lingkabau, Timugon_Murut, Kendayan_2, Long_Gelat	25	U+006e U+0073
@@ -356,14 +331,10 @@ o$	o	təlaʔo, buayo	Lotud, Punan_Bah, Hovongan, Seguliud, Seputan, BrDusun, Bur
 o͂$	õ	mo͂ŋo͂	Punan_Aput	1	U+006f U+0342 U+0024
 õ$	õ	mahõ	Bekati	1	U+00f5 U+0024
 o̯$	o̯	pulao̯, kaʔao̯	Kelai, Mpraa, Dalat_Melanau, Upper_Kapuas_Iban, Seberuang, Gaai	27	U+006f U+032f U+0024
-oᵈ	o	daoᵈn, ənʤoᵈn	Tawoyan, Modang_woeg_helag	2	U+006f U+1d48
-oᵍ	o	dəloᵍŋ, soᵍŋ	Modang_woeg_helag, Dusun	5	U+006f U+1d4d
-oʰ	o	anak soʰpot, koʰkaŋ	Kadorih	5	U+006f U+02b0
 óh	o h	ʤóhat, póhɛt	Ketapang	2	U+00f3 U+0068
 oᵏ	o	pusoᵏŋ, təkoloᵏŋ	Tunjung, Benuaq, Maanyan	8	U+006f U+1d4f
 oo	oː	pogoyooʔ, goolu	Dumpas, Tidung_Sumbol, Tawoyan, Kiput, Hovongan, Bonggi, Kadazan_Kimanis, SBisaya, Bekati, Tunjung, Kadorih, Seguliud, LBisaya, Timugon_Murut, Benyadu, Hliboi_Bidayuh	23	U+006f U+006f
 oo$	oː	roo, poo	LBisaya, Tatana, Bonggi, BrDusun, Dumpas, Kadazan_Kimanis, Lun-Dayeh	12	U+006f U+006f U+0024
-oᵗ	o	taoᵗn, roᵗn	Tunjung	2	U+006f U+1d57
 ów	o w	ʤówoh	Ketapang	1	U+00f3 U+0077
 oʷ$	o w	kayoʷ, puloʷ	Ribun, Bekati	2	U+006f U+02b7 U+0024
 óʷ$	o w	kasóʷ, aɣóʷ	Bekati	3	U+00f3 U+02b7 U+0024
@@ -376,9 +347,9 @@ o̰ʷ$	o̰ w	ñamo̰ʷ	Bekati	1	U+006f U+0330 U+02b7 U+0024
 p	p	umpan, mipa	Kapuas, Bekati, Lotud, Punan_Lisum, Bakumpai, Kadorih, Punan_Aput, Ngaju, Ukit, Punan_Bah, Burusu, Aoheng, Benuaq, Sungkung, Mpraa, Ribun, Lun-Dayeh, Badeng, Maanyan, Punan_Tuvu, Tau, Penan_Jekitan, Benyadu, Pangkodan_Sanggau, Bahau_Saq, Buket, Kelabit, Modang_woeg_helag, Dusun, Penan_Mubui, Lobu_Lanas, Kendayan_2, Sekapan, Laang, Keninjal, Lahanan, Berawan_jeegan_, Berawan_Terawan_, Kadazan_Kimanis, Vo, Ngorek, Penan_Beku, Kejaman, Gah, Mualang, Hovongan, Upper_Kapuas_Iban, Long_Gelat, Apo_Kayan_Kayan, Golik, Tawoyan, Seputan, Sebop_old_, Jangkang, Seberuang, Tunjung, Kereho, Basap_Lebo_, Rungus, Ketapang, Pawe, Busang, Kiput, Narum, Sawa	100	U+0070
 p$	p	murip, ʤawap	Hliboi_Bidayuh, Punan_Lisum, Penan_Jekitan, Punan_Aput, Keninjal, Aoheng, Kejaman, Hovongan, Tawoyan, Seputan, Kanowit, Bekati, Penan_Mubui, Punan_Bah, Kendayan_2, Sekapan, Lahanan, Sungkung, Ngorek, Penan_Beku, Mualang, Golik, Jangkang, Punan_Tuvu, Kereho, Pangkodan_Sanggau, Buket, Benyadu, Bahau_Saq, Kapuas, Ukit, Dusun, Burusu, Laang, Sawa, Benuaq, Vo, Pawe, Mpraa, Gah, Upper_Kapuas_Iban, Apo_Kayan_Kayan, Badeng, Maanyan, BrDusun, Dalat_Melanau, Tau, Seberuang, Bakumpai, Tunjung, Ketapang, Baram_Kayan, Ngaju, Busang, Narum	100	U+0070 U+0024
 ph	pʰ	naphaʔ	Gaai	1	U+0070 U+0068
-pp	pː	pəlad ppiʔ, təppəh	Berawan_Terawan_, Begak, Seguliud, Idaan, Apo_Kayan_Kayan, Sekapan, Berawan_jeegan_, Kiput	17	U+0070 U+0070
+pp	p p	pəlad ppiʔ, təppəh	Berawan_Terawan_, Begak, Seguliud, Idaan, Apo_Kayan_Kayan, Sekapan, Berawan_jeegan_, Kiput	17	U+0070 U+0070
 ps	p s	ŋəpsɪt	Modang_woeg_helag	1	U+0070 U+0073
-pˀ	p	kupˀm	Golik	1	U+0070 U+02c0
+pˀm	pⁿ	kupˀm	Golik	1	U+0070 U+02c0
 q	k	ñəlaqah, ŋaqal	Ribun, Hliboi_Bidayuh	3	U+0071
 q$	k	bidaq	Benyadu	1	U+0071 U+0024
 r	r	murip, bəruaŋ	Aoheng, Benyadu, Dusun, Seputan, Ketapang, Kendayan_2, Burusu, Punan_Lisum, Maanyan, Penan_Jekitan, Kereho, Lotud, Penan_Mubui, Lobu_Lanas, Lahanan, Penan_Beku, Kejaman, Hovongan, Lun-Dayeh, Idaan, Seguliud, Begak, Punan_Aput, Ngaju, Dumpas, Kapuas, Kelabit, Ukit, Punan_Bah, Sekapan, Berawan_jeegan_, Berawan_Terawan_, Vo, Pawe, Benuaq, Ngorek, Mpraa, Lingkabau, Timugon_Murut, Upper_Kapuas_Iban, Apo_Kayan_Kayan, Tawoyan, Tatana, Papar, Punan_Tuvu, Seberuang, Bakumpai, Tunjung, Kadorih, Basap_Lebo_, Rungus, Baram_Kayan, Buket, Busang, Bahau_Saq	100	U+0072
@@ -392,14 +363,14 @@ rs	r s	bərsiʔ, kərsik	Tunjung, Benuaq, Dusun, Basap_Lebo_	5	U+0072 U+0073
 s	s	pisaŋ, susu	Kapuas, Ribun, Mualang, Pangkodan_Sanggau, Kendayan_2, Kadazan_Kimanis, Upper_Kapuas_Iban, Golik, Seberuang, Kadorih, Kereho, Ketapang, Ngaju, Benyadu, Bekati, Keninjal, Timugon_Murut, Jangkang, Bakumpai, Basap_Lebo_, Buket, Dumpas, Busang, Modang_woeg_helag, Gaai, Ukit, Kelai, Kiput, Lotud, Penan_Mubui, Lobu_Lanas, Burusu, Berawan_Terawan_, Lahanan, Aoheng, Vo, Benuaq, Sungkung, Penan_Beku, Kejaman, Hovongan, Long_Gelat, Lun-Dayeh, Punan_Lisum, Idaan, SBisaya, Paser, Seputan, Tatana, BrDusun, Dalat_Melanau, Bulungan, Penan_Jekitan, Tunjung, Kanowit, LBisaya, Rungus, Punan_Aput, Hliboi_Bidayuh	100	U+0073
 s$	s	bakas, lipos	Ribun, Bulungan, Dumpas, Dusun, Lotud, Lobu_Lanas, Keninjal, Benuaq, Kadazan_Kimanis, Idaan, Tidung_Sumbol, Tawoyan, Seguliud, Maanyan, Papar, Jangkang, Begak, Rungus, Kapuas, Kendayan_2, Burusu, Lingkabau, Timugon_Murut, Bonggi, Upper_Kapuas_Iban, Paser, Golik, Tatana, BrDusun, Bakumpai, Pangkodan_Sanggau, LBisaya, Basap_Lebo_, Ngaju, Hliboi_Bidayuh, Modang_woeg_helag, Kelai, Mualang, SBisaya, Ketapang, Benyadu	100	U+0073 U+0024
 ss	sː	gəssang, gossang	Idaan, Begak, Seguliud	4	U+0073 U+0073
-sʸ	s	besʸew, ʤəmesʸat	Punan_Bah, Kadorih	3	U+0073 U+02b8
-sʸ$	s	botisʸ, ŋaduə̯sʸ	Pangkodan_Sanggau, Hliboi_Bidayuh	2	U+0073 U+02b8 U+0024
+sʸ	sʲ	besʸew, ʤəmesʸat	Punan_Bah, Kadorih	3	U+0073 U+02b8
+sʸ$	sʲ	botisʸ, ŋaduə̯sʸ	Pangkodan_Sanggau, Hliboi_Bidayuh	2	U+0073 U+02b8 U+0024
 t	t	tutuŋ, mutu	Kelai, Sungkung, Benyadu, Dusun, Keninjal, Mualang, Tunjung, Busang, Bahau_Saq, Kelabit, Gaai, Ukit, Penan_Mubui, Kendayan_2, Lahanan, Ribun, Punan_Lisum, Lun-Dayeh, Tidung_Sumbol, Maanyan, Jangkang, Tau, Kereho, Basap_Lebo_, Punan_Aput, Hliboi_Bidayuh, Kapuas, Modang_woeg_helag, Bekati, Punan_Bah, Sekapan, Burusu, Laang, Sawa, Aoheng, Vo, Pawe, Benuaq, Ngorek, Penan_Beku, Mpraa, Gah, Hovongan, Upper_Kapuas_Iban, Long_Gelat, SBisaya, Apo_Kayan_Kayan, Paser, Golik, Seputan, Tawoyan, Badeng, Bulungan, Punan_Tuvu, Penan_Jekitan, Seberuang, Pangkodan_Sanggau, Ketapang, Baram_Kayan, Buket, Ngaju, Narum	100	U+0074
 t$	t	takut, ʤahat	Bekati, Idaan, Benyadu, Ukit, Dusun, Lotud, Sekapan, Lahanan, Kejaman, Lingkabau, Mualang, Bonggi, Upper_Kapuas_Iban, SBisaya, Paser, Golik, Tawoyan, BrDusun, Jangkang, Dalat_Melanau, Miri, Seberuang, Pangkodan_Sanggau, Basap_Lebo_, Begak, Ketapang, Buket, Kelabit, Modang_woeg_helag, Gaai, Kelai, Punan_Bah, Kendayan_2, Laang, Keninjal, Benuaq, Vo, Pawe, Kadazan_Kimanis, Ngorek, Hliboi_Bidayuh, Gah, Timugon_Murut, Punan_Lisum, Long_Gelat, Lun-Dayeh, Apo_Kayan_Kayan, Tidung_Sumbol, Badeng, Maanyan, Seguliud, Tatana, Papar, Bulungan, Punan_Tuvu, Tau, Bakumpai, Tunjung, Kadorih, Kereho, Kanowit, LBisaya, Rungus, Baram_Kayan, Punan_Aput, Dumpas, Kiput, Narum, Sawa	100	U+0074 U+0024
 tt	tː	attaʔ, attas	Begak, Seguliud, Berawan_Terawan_, Idaan, Apo_Kayan_Kayan, Berawan_jeegan_, Kejaman, Pangkodan_Sanggau, Punan_Bah, Kiput	28	U+0074 U+0074
 tw	t w	kətweyn	Long_Gelat	1	U+0074 U+0077
 tʸ$	tʲ	ləɲeytʸ	Modang_woeg_helag	1	U+0074 U+02b8 U+0024
-tˀ	t	doutˀn, awətˀn	Golik	10	U+0074 U+02c0
+tˀn	tⁿ	doutˀn, awətˀn	Golik	10	U+0074 U+02c0
 u	u	tutuŋ, buʔut	Busang, Kapuas, Sekapan, Aoheng, Punan_Lisum, Seputan, Punan_Tuvu, Bakumpai, Kereho, Punan_Aput, Punan_Bah, Hovongan, Apo_Kayan_Kayan, Tunjung, Kadorih, Ngaju, Bahau_Saq, Kelabit, Ukit, Kelai, Lahanan, Mpraa, Ribun, Lun-Dayeh, Paser, Golik, Kanowit, Basap_Lebo_, Ketapang, Buket, Hliboi_Bidayuh, Dusun, Penan_Mubui, Keninjal, Sungkung, Mualang, Upper_Kapuas_Iban, Sebop_old_, BrDusun, Miri, Tau	100	U+0075
 ú	u	mútan, ŋarúm	Hliboi_Bidayuh, Ketapang, Jangkang, Benyadu, Seberuang, Sungkung, Golik, Pangkodan_Sanggau, Ribun	17	U+00fa
 ǔ	u	bǔt	Hliboi_Bidayuh	1	U+01d4
@@ -407,7 +378,7 @@ u	u	tutuŋ, buʔut	Busang, Kapuas, Sekapan, Aoheng, Punan_Lisum, Seputan, Punan_
 ũ	ũ	məñũhũk, ñãhũt	Mpraa, Kadorih, Long_Gelat, Tunjung	6	U+0169
 u̯	u̯	ŋiteu̯ʔ, lʊu̯ŋ	Hliboi_Bidayuh, Mpraa, Ribun	17	U+0075 U+032f
 u̩	u	iu̩h, ʤau̩ʔ	Hliboi_Bidayuh, Miri	3	U+0075 U+0329
-u(ʔ)ud	uʔud	u(ʔ)ud	Lobu_Lanas	1	U+0075 U+0028 U+0294 U+0029 U+0075 U+0064
+u(ʔ)ud	u ʔ u d	u(ʔ)ud	Lobu_Lanas	1	U+0075 U+0028 U+0294 U+0029 U+0075 U+0064
 uː	uː	muːʔ, suːʔ	Bahau_Saq, Tunjung, Apo_Kayan_Kayan, Mpraa, Dalat_Melanau, Benuaq, Sungkung, Hovongan, Hliboi_Bidayuh, Bekati, Seberuang, Kanowit, Golik, Ribun, Benyadu, Long_Gelat, Upper_Kapuas_Iban	54	U+0075 U+02d0
 úː	uː	núːm	Jangkang	1	U+00fa U+02d0
 ũː	ũː	hmũːə̯̃	Mpraa	1	U+0169 U+02d0
@@ -422,25 +393,16 @@ u$	u	aku, abu	Aoheng, Seputan, Kereho, Burusu, Hovongan, Idaan, Begak, Bekati, L
 ũ$	ũ	mañũ, damahũ	Benyadu, Buket, Hovongan	3	U+0169 U+0024
 u̯$	u̯	kutʊu̯, kəpalaʔ sikəu̯	Mpraa, Hliboi_Bidayuh, Seberuang, Bekati, Upper_Kapuas_Iban	10	U+0075 U+032f U+0024
 u̩$	u	au̩, sau̩	Miri, Bekati, Sungkung	4	U+0075 U+0329 U+0024
-uᵇ	u	weluᵇm	Dusun, Maanyan	2	U+0075 U+1d47
-uᵈ	u	ʤuʔuᵈn, n͂uʔuᵈn	Dusun, Tawoyan, Modang_woeg_helag, Maanyan	7	U+0075 U+1d48
-uᵍ	u	lehuᵍŋ, untuᵍŋ	Tawoyan, Dusun	5	U+0075 U+1d4d
-uʰ	u	natuʰcuʔ, nuʰpiʔ	Kadorih	4	U+0075 U+02b0
-uᵏ	u	laluᵏŋ, kəmuᵏŋ	Benuaq, Tunjung, Dusun, Maanyan	13	U+0075 U+1d4f
-uᵖ	u	bəluᵖm, boluᵖm	Benuaq, Tunjung	2	U+0075 U+1d56
-uᵗ	u	lauᵗn, oluᵗn	Benuaq, Tunjung	4	U+0075 U+1d57
+ᵇm	bⁿ	weluᵇm	Dusun, Maanyan	2	U+0075 U+1d47
 uu	uː	puut, puun	Kereho, Tidung_Sumbol, Aoheng, Kadazan_Kimanis, Lingkabau, Timugon_Murut, Hovongan, Bonggi, Lun-Dayeh, Seputan, BrDusun, Kelabit, Bekati, Lobu_Lanas, Kendayan_2, Idaan, SBisaya, Tawoyan, Tatana, Dalat_Melanau, Tunjung, Benyadu, LBisaya, Dumpas, Pawe	39	U+0075 U+0075
 uu$	uː	tuu, masuu	Lingkabau, Lun-Dayeh, Hovongan	5	U+0075 U+0075 U+0024
-u̩ˣ	u	pikau̩ˣk	Sungkung	1	U+0075 U+0329 U+02e3
 ʉ	ʉ	kʉtʉ, kʉat	Seputan	3	U+0289
 ʉ$	ʉ	toʉ, katʉ	Seputan	12	U+0289 U+0024
-ʉᵍ	ʉ	baʉᵍŋ	Modang_woeg_helag	1	U+0289 U+1d4d
 ʊ	ʊ	dʊdʊʔ, kutʊu̯	Seberuang, Sungkung, Mpraa, Apo_Kayan_Kayan, Kelai, Dalat_Melanau, Keninjal, Upper_Kapuas_Iban, Hliboi_Bidayuh	12	U+028a
 v	v	bavuy, avu	Ukit, Buket, Sekapan, Hovongan, Punan_Aput, Punan_Bah, Aoheng, Punan_Lisum, Dusun, Lahanan, Kejaman, Seputan, Penan_Mubui, Penan_Beku, Sebop_old_, Maanyan, Kadorih, Ngaju, Pawe, Penan_Jekitan, Rungus, Busang, Burusu, Berawan_jeegan_, Vo, Lingkabau, Kereho	100	U+0076
 vʸ	v	duvʸe	Berawan_jeegan_	1	U+0076 U+02b8
 w	w	ʤawap, suwi	Gaai, Modang_woeg_helag, Sekapan, Burusu, Penan_Beku, Kejaman, Narum, Kelai, Penan_Mubui, Sungkung, Mpraa, Idaan, Penan_Jekitan, Hliboi_Bidayuh, Dusun, Punan_Bah, Berawan_jeegan_, Lingkabau, Tawoyan, Seguliud, BrDusun, Begak, Lotud, Kendayan_2, Keninjal, Laang, Aoheng, Benuaq, Ngorek, Gah, Ribun, Mualang, Hovongan, Upper_Kapuas_Iban, Lun-Dayeh, Long_Gelat, Paser, Golik, Maanyan, Tatana, Badeng, Jangkang, Dalat_Melanau, Bulungan, Miri, Tau, Seberuang, Bakumpai, Pangkodan_Sanggau, Basap_Lebo_, Ngaju, Buket, Dumpas, Sawa	100	U+0077
 w$	w	piasaw, avəw	Sekapan, Lahanan, Gaai, Kejaman, Kanowit, Narum, Dalat_Melanau, Pawe, Kelai, Punan_Bah, Berawan_jeegan_, BrDusun, Seberuang, Kiput, Lotud, Burusu, Timugon_Murut, Mualang, SBisaya, Tatana, Miri, Punan_Tuvu, LBisaya, Punan_Aput, Ngaju, Kapuas, Penan_Mubui, Lobu_Lanas, Berawan_Terawan_, Vo, Kadazan_Kimanis, Penan_Beku, Mpraa, Lingkabau, Punan_Lisum, Apo_Kayan_Kayan, Badeng, Papar, Tau, Kadorih, Rungus, Ketapang, Buket, Dumpas, Bahau_Saq	100	U+0077 U+0024
-wᵍ	w	təwᵍŋ, pələwᵍŋ	Modang_woeg_helag	2	U+0077 U+1d4d
 wh$	w h	ɲəwh, ñɒwh	Miri, Hliboi_Bidayuh, Modang_woeg_helag, Gaai	12	U+0077 U+0068 U+0024
 ws$	w s	ɒws	Gaai	1	U+0077 U+0073 U+0024
 x	NULL	mpapaxkŋ, naxiʔ	Sungkung, Bulungan	3	U+0078
@@ -448,8 +410,6 @@ y	j	layok, kulit kayu	Mpraa, Gah, Berawan_jeegan_, Laang, Vo, Sungkung, Badeng, 
 y:$	j	məy:	Sekapan	1	U+0079 U+003a U+0024
 y$	j	bavuy, babuy	Kelai, Dusun, Apo_Kayan_Kayan, Kadorih, Kapuas, Gaai, Punan_Bah, Penan_Jekitan, Bakumpai, Tunjung, Baram_Kayan, Punan_Aput, Ngaju, Ukit, Penan_Mubui, Sekapan, Berawan_jeegan_, Lahanan, Vo, Penan_Beku, Mpraa, Punan_Lisum, Tawoyan, Maanyan, Papar, Dalat_Melanau, Seberuang, Buket, Busang, Lobu_Lanas, Laang, Sawa, Kadazan_Kimanis, Benuaq, Sungkung, Ngorek, Kejaman, Lingkabau, Gah, Mualang, Upper_Kapuas_Iban, Sebop_old_, Tatana, Miri, Punan_Tuvu, Tau, Pangkodan_Sanggau, Basap_Lebo_, Rungus, Dumpas, Pawe, Kiput, Narum, Bahau_Saq	100	U+0079 U+0024
 ỹ$	j	haũỹ	Long_Gelat	1	U+1ef9 U+0024
-yᵍ	j	baᵍŋ deyᵍŋ, nɒk leyᵍŋ	Modang_woeg_helag	3	U+0079 U+1d4d
-yʸ	ei	hyʸə̯l	Kelai	1	U+0079 U+02b8
 z	z	puʔun do kazu, agazoʔ	Rungus, Kadazan_Kimanis	14	U+007a
 ʑ	z	aʑan, paʑaw	Kejaman, Sekapan	13	U+0291
 ʔ	ʔ	ʤaʔat, caʔat	Kereho, Seputan, Kelabit, Kejaman, Apo_Kayan_Kayan, Baram_Kayan, Busang, Sekapan, Lahanan, Aoheng, Bahau_Saq, Bekati, Dusun, Penan_Mubui, Sawa, Sungkung, Ngorek, Mpraa, Hovongan, Miri, Kanowit, Pawe, Kapuas, Modang_woeg_helag, Gaai, Kelai, Lotud, Punan_Bah, Kendayan_2, Burusu, Berawan_jeegan_, Vo, Kadazan_Kimanis, Gah, Paser, Golik, Sebop_old_, Maanyan, Badeng, Papar, Jangkang, Dalat_Melanau, Punan_Tuvu, Tau, Bakumpai, Tunjung, Pangkodan_Sanggau, Basap_Lebo_, Rungus, Punan_Aput, Ngaju, Hliboi_Bidayuh, Narum	100	U+0294
@@ -459,3 +419,92 @@ z	z	puʔun do kazu, agazoʔ	Rungus, Kadazan_Kimanis	14	U+007a
 ʔʸ	ʔ	siʔʸuə̯ŋ	Kejaman	1	U+0294 U+02b8
 ʔʑ	ʔ ʑ	kəʔʑeə̯, kəʔʑeə̯ŋ	Sekapan, Kejaman	3	U+0294 U+0291
 ʔʔ	ʔː	tiʔʔah	Kejaman	1	U+0294 U+0294
+θ	θ
+ʸh	h
+χ	χ
+ᵖm	pⁿ
+oʰ	o̤
+hàfát	h a f a t
+à	a
+á	a
+y	j
+ᵇm	bⁿ
+1	NULL
+C	ts
+^tə́mpat	t ə m p a t
+^kəɲaə̯̈ŋ	k ə ɲ aə ŋ
+ù	u
+o:	oː
+^géʸ	g ei
+oː	oː
+S	s
+gʸ	gʲ
+^m̩aŋi	m̩ a ŋ i
+^m̩	m̩
+…	NULL
+*	NULL
+ləwa̠y	l ə w ai
+oːʰ	o̤ː
+aʰ	a̤
+β	β
+ᵍŋ	gⁿ
+gᵑ	gⁿ
+mĩⁿt	m ĩ ⁿt
+i̤ː	i̤ː
+iː	iː
+ʷt	tʷ
+ʤaə̯̈k	dʒ a̤ə k
+õ̰ː	oː
+0	NULL
+^tanai̩n	t a n ai n
+ə͂	ə̃
+aə̯̈	aə̯̈
+i͂	ĩ
+^ŋ̃inti	ŋ ĩ n t i
+ᵏn	kⁿ
+eʸ	ei
+mː	mː
+kˣ	kx
+óʷ	ou
+u͂i͂	u͂ĩ
+éːʸ	eː
+ḛ́ʸ	ei
+ǎ	a
+ɪ͂	ĩ
+tː	tː
+ẽ	ẽ
+^kˣ	kx
+oː	oː
+ɛʰ	ɛ̤
+aʰ	a̤
+eʰ	e̤
+au̯	au̯
+iʰ	i̤
+sʷ	sʷ
+uʰ	ṳ
+^laŋẽⁿt	l a ŋ ẽ ⁿt
+ɛ̃	ɛ̃
+ãː	ãː
+^yːah	yː
+ʷʔ	ʔʷ
+ᵑk	kⁿ
+.	NULL
+m̩	m̩
+ũ	ũ
+^iː	iː
+nʸ	nʲ
+^nʸ	nʲ
+ds	dz
+^ds	dz
+ᵐp	pⁿ
+u͂	ũ
+ⁿk	kⁿ
+éʸ	ei
+ɛ̃y	ɛi
+a̠y	ai
+o̤	o̤
+^ŋᵍ	gⁿ
+ŋᵍ	gⁿ
+ʷŋ	ŋʷ
+ˣk	kx
+^ˣk	kx

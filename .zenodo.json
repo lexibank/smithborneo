@@ -7,13 +7,27 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Taraka Rama"
+            "name": "Alexander Smith"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos Barrientos Ugarte",
+            "type": "Other"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Other"
+        },
+        {
+            "name": "Taraka Rama",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

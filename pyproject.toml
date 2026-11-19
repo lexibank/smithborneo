@@ -4,14 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "smithborneo"
-version = "0.1"
-dependencies = [
-    "pylexibank>=4.2.0",
-    "cldfbench==2.0.1",
-    "pycldf==2.1.1",
-    "csvw==4.2.0",
-    "pyconcepticon==4.1.0"
-]
+version = "1.0"
+dependencies = ["pylexibank>=4.2.0"]
 
 [project.optional-dependencies]
 test = ["pytest-cldf"]

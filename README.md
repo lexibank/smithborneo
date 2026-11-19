@@ -10,32 +10,22 @@ If you use these data please cite
 ## Description
 
 
+CLDF dataset from Smith's 'The Languages of Borneo'
+
 This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
 - [Smith-2017-679](https://concepticon.clld.org/contributions/Smith-2017-679)
-## Notes
-
-# borneo
-Lexibankify Bornean languages 
-
-Cite the source dataset as
-
-> Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. (Doctoral dissertation, University of Hawai'i at Mānoa; 723pp.)
-
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
-
-
-
 ## Statistics
 
 
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
-![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/smithborneo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/smithborneo/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 99%](etc/badge_languages.svg)
+![Concepticon: 91%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 95 (linked to 93 different Glottocodes)
 - **Concepts:** 679 (linked to 609 different Concepticon concept sets)
@@ -49,12 +39,20 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Segments:** 158 (0 BIPA errors, 0 CLTS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 34.26
 
+## Possible Improvements:
+
+- Languages missing glottocodes: 1/95 (1.05%%)
+
+
 # Contributors
 
-Name               | GitHub user | Role 
----                | ---         | ---
-Johann-Mattis List | @LinguList  | maintainer
-Taraka Rama | @phylostar | maintainer
+Name               | GitHub user | Description | Role |
+---                | ---         | --- | ---
+Alexander Smith | | Original author | Author
+Johann-Mattis List | @LinguList  | CLDF conversion | Editor
+Carlos Barrientos Ugarte | @CMUgarte | CLDF conversion | Other
+Frederic Blum | @FredericBlum | CLDF conversion | Other
+Taraka Rama | @phylostar | CLDF conversion | Other
 
 
 

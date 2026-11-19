@@ -3,26 +3,25 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. PhD thesis. University of Hawai'i at M\u0101noa.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "CLDF dataset from Smith's 'The Languages of Borneo'",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Smith-2017-679"
+        "https://concepticon.clld.org/contributions/Smith-2017-679"
     ],
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Languages of Borneo",
-    "dcat:accessURL": "https://github.com/phylostar/borneo",
+    "dcat:accessURL": "https://github.com/lexibank/smithborneo",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/phylostar/borneo",
+            "rdf:about": "https://github.com/lexibank/smithborneo",
             "rdf:type": "prov:Entity",
-            "dc:created": "6988584",
+            "dc:created": "c218304",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.4",
             "dc:title": "Glottolog"
         },
         {
@@ -32,7 +31,7 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.3.0",
             "dc:title": "CLTS"
@@ -45,7 +44,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.8"
+            "dc:description": "3.15.2"
         },
         {
             "dc:title": "python-packages",
@@ -161,6 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "A language.",
             "dc:extent": 95,
             "tableSchema": {
                 "columns": [
@@ -227,6 +227,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "Essential data of a concept mapped to Concepticon.",
             "dc:extent": 679,
             "tableSchema": {
                 "columns": [
@@ -259,6 +260,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:description": "A cognate or rather a cognacy judgement.",
             "dc:extent": 50997,
             "tableSchema": {
                 "columns": [

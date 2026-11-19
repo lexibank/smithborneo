@@ -3,5 +3,6 @@
     "url": "",
     "conceptlist": ["Smith-2017-679"],
     "license": "CC-BY-4.0",
-    "citation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. PhD thesis. University of Hawai'i at Mānoa."
+    "citation": "Smith, Alexander. 2017. The Languages of Borneo: A comprehensive classification. PhD thesis. University of Hawai'i at Mānoa.",
+    "description": "CLDF dataset from Smith's 'The Languages of Borneo'"
 }
